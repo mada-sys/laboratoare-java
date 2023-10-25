@@ -1,26 +1,6 @@
 public class Main {
     public static void main(String[] args) {
 
-        System.out.println("Hello world!");
-        System.out.println();
-        int i = 0;
-        System.out.println(i);
-        System.out.println();
-        float x = 3.2f;
-        double y = 3.24;
-        System.out.println(x);
-        System.out.println(y);
-        byte z = 127;
-        System.out.println(z);
-        x = (float) y;
-        System.out.println(x);
-        Double z1 = 2.2d;
-        double z2 = 125;
-
-        System.out.println(Double.valueOf(z2));
-        System.out.println(Double.valueOf(z2));
-
-
         int[] months_days = {31, 28, 31, 30, 31, 30, 31, 31, 30, 31, 30, 31};
         String[] months = {"ianuarie", "februarie", "martie", "aprilie", "mai", "iunie", "iulie", "august", "septembrie", "octombrie", "noiembrie", "decembrie"};
         for (int id = 0; id < months_days.length; id++)///ex1

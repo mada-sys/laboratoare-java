@@ -31,7 +31,7 @@ public class CourseManager {
 
 
     ///TEMA EX 2
-    public void enrollStudentInCourse(String courseName, Student student) {
+    public void enrollStudent(String courseName, Student student) {
         for (Course course : courses) { ///se parcurge element cu element din lista clasei courses
             if (course.getName().equals(courseName)) { /// se verifica daca se indeplineste conditia(numele cursului este acelasi cu numele cursului specifica)
                 course.addStudent(student);///daca da se adauga studenti
@@ -45,7 +45,7 @@ public class CourseManager {
 
 
 ///TEMA EX 3
-    public List<Student> listStudentsInCourse(String courseName) { ///se initializeaza o lista goala
+    public List<Student> listStudents(String courseName) { ///se initializeaza o lista goala
         List<Student> studentsInCourse = new ArrayList<>();
 
         for (Course course : courses) { ///se parcurge tot "sirul de nume" din courses
@@ -72,7 +72,7 @@ public class CourseManager {
 
     ///TEMA EX 4
 
-    public double getAverageGradeForCourse(String courseName) {
+    public double getAverageGrade(String courseName) {
         double totalGrade = 0.0; ///se initializeaza nota totala
         int totalStudents = 0; ///se initializeaza nr de studenti
 
@@ -96,7 +96,7 @@ public class CourseManager {
     }
 
     ///TEMA EX 5
-    public double getAverageGradeByProfessor(Professor professor) {
+    public double getAverageGrade(Professor professor) {
         double totalGrade = 0.0; ///initializare nota totala
         int numberCourses= 0; ///initializare nr cursuri
 

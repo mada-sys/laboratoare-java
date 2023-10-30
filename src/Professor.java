@@ -1,9 +1,11 @@
+import java.sql.SQLOutput;
+
 public class Professor {
     String first_name;
     String last_name;
 
     @Override
-    public String toString{
+    public String toString(){
         return "Professor{"+"first name:"+first_name+",last name:"+last_name+"}";
     }
     public Professor(String first_name, String last_name){
@@ -14,10 +16,12 @@ public class Professor {
 
     ///tema ex 1
     public String getFullName() {
-        Professor professor = new Professor("Popa", "Ion"); ///se declara un nou obiect de tipul professor
-        String fullName = professor.getFullName();
-        System.out.println(fullName);///se afiseaza numele complet
+        return first_name + " " + last_name;
     }
 
-
+    public static void main(String[] args) {
+        Professor professor = new Professor("Popa", "Ion");
+        String fullName = professor.getFullName();
+        System.out.println(fullName);
+    }
 }

@@ -1,0 +1,968 @@
+country_name,region,income_group,year,cohort_size,coverage,cancer_prevented,deaths_prevented,assumption_type,possible_cancer_cases,possible_cancer_deaths
+Afghanistan,South Asia,Low income,2021,579118.68,0,0,0,Attain WHO Coverage Goal,4221.86,3275.27
+Angola,Sub-Saharan Africa,Lower middle income,2021,536273.19,0,0,0,Attain WHO Coverage Goal,14022.07,10275.75
+Albania,Europe & Central Asia,Upper middle income,2021,14784.56,0,0,0,Attain WHO Coverage Goal,87.46,53.24
+United Arab Emirates,Middle East & North Africa,High income,2021,47220.45,0,0,0,Attain WHO Coverage Goal,361.86,273.52
+Argentina,Latin America & Caribbean,Upper middle income,2021,360942.35,0.53,2598.29,1726.17,Attain WHO Coverage Goal,4954.45,3261.47
+Armenia,Europe & Central Asia,Upper middle income,2021,19495.94,0.08,13.24,9.91,Attain WHO Coverage Goal,163.52,121.1
+Australia,East Asia & Pacific,High income,2021,161507.31,0.66,522.02,283.13,Attain WHO Coverage Goal,812.85,445.61
+Austria,Europe & Central Asia,High income,2021,41069.09,0,0,0,Attain WHO Coverage Goal,228.89,120.66
+Azerbaijan,Europe & Central Asia,Upper middle income,2021,70526.23,0,0,0,Attain WHO Coverage Goal,423.06,286.28
+Burundi,Sub-Saharan Africa,Low income,2021,180973.05,0,0,0,Attain WHO Coverage Goal,6131.14,5131.21
+Belgium,Europe & Central Asia,High income,2021,66275.15,0.7,325.05,149.84,Attain WHO Coverage Goal,473.9,218.21
+Benin,Sub-Saharan Africa,Lower middle income,2021,173761.39,0,0,0,Attain WHO Coverage Goal,1744.37,1287.93
+Burkina Faso,Sub-Saharan Africa,Low income,2021,325418.63,0,0,0,Attain WHO Coverage Goal,3675.44,3056.1
+Bangladesh,South Asia,Lower middle income,2021,1559093.74,0,0,0,Attain WHO Coverage Goal,12614.64,8845.43
+Bulgaria,Europe & Central Asia,Upper middle income,2021,37142.38,0.03,16.43,9.24,Attain WHO Coverage Goal,553.81,305.86
+Bahrain,Middle East & North Africa,High income,2021,9717.91,0,0,0,Attain WHO Coverage Goal,46.8,30.99
+"Bahamas, The",Latin America & Caribbean,High income,2021,3128.82,0,0,0,Attain WHO Coverage Goal,50.09,36.81
+Bosnia and Herzegovina,Europe & Central Asia,Upper middle income,2021,18104.85,0,0,0,Attain WHO Coverage Goal,183.89,103.07
+Belarus,Europe & Central Asia,Upper middle income,2021,49121.64,0,0,0,Attain WHO Coverage Goal,461.95,213.8
+Belize,Latin America & Caribbean,Upper middle income,2021,3779.84,0.04,3.06,2.99,Attain WHO Coverage Goal,77.6,75.72
+Bolivia,Latin America & Caribbean,Lower middle income,2021,121764.91,0.36,1059.01,726.92,Attain WHO Coverage Goal,3068.53,2351.08
+Brazil,Latin America & Caribbean,Upper middle income,2021,1476779.08,0.67,12650.56,7617.49,Attain WHO Coverage Goal,19389.39,11768.23
+Barbados,Latin America & Caribbean,High income,2021,1716.5,0.28,8.5,5.79,Attain WHO Coverage Goal,31.55,21.48
+Brunei Darussalam,East Asia & Pacific,High income,2021,3051.81,0.89,37.63,12.35,Attain WHO Coverage Goal,43.18,14.18
+Bhutan,South Asia,Lower middle income,2021,6802.3,0.88,66.41,44.82,Attain WHO Coverage Goal,73.26,49.1
+Botswana,Sub-Saharan Africa,Upper middle income,2021,26625.5,0.22,152.51,102.61,Attain WHO Coverage Goal,816.6,572.09
+Central African Republic,Sub-Saharan Africa,Low income,2021,80688.8,0,0,0,Attain WHO Coverage Goal,982.23,808.34
+Canada,North America,High income,2021,198313.24,0.87,874.46,509.11,Attain WHO Coverage Goal,1027.3,595.88
+Switzerland,Europe & Central Asia,High income,2021,40544.24,0.71,110.97,60.95,Attain WHO Coverage Goal,160.05,88.09
+Chile,Latin America & Caribbean,High income,2021,124945.53,0.57,890.14,619.1,Attain WHO Coverage Goal,1574.14,1088.96
+China,East Asia & Pacific,Upper middle income,2021,8040300.05,0,0,0,Attain WHO Coverage Goal,68733.45,43758.45
+Côte d’Ivoire,Sub-Saharan Africa,Lower middle income,2021,368846.68,0.41,3053.68,2389.85,Attain WHO Coverage Goal,7623.14,5937.6
+Cameroon,Sub-Saharan Africa,Lower middle income,2021,387318.31,0.05,374.76,277.24,Attain WHO Coverage Goal,7829.42,5821.44
+"Congo, Dem. Rep.",Sub-Saharan Africa,Low income,2021,1387133.45,0,0,0,Attain WHO Coverage Goal,30734.41,24678.61
+"Congo, Rep.",Sub-Saharan Africa,Lower middle income,2021,76342.66,0,0,0,Attain WHO Coverage Goal,1420.38,995.26
+Colombia,Latin America & Caribbean,Upper middle income,2021,379485.74,0.11,658.62,454.38,Attain WHO Coverage Goal,6088.54,4205.03
+Comoros,Sub-Saharan Africa,Lower middle income,2021,11311.68,0,0,0,Attain WHO Coverage Goal,423.5,327.44
+Cabo Verde,Sub-Saharan Africa,Lower middle income,2021,5192.57,0,0,0,Attain WHO Coverage Goal,80.68,72.35
+Costa Rica,Latin America & Caribbean,Upper middle income,2021,35150.5,0.59,188.07,170.16,Attain WHO Coverage Goal,325.14,295.51
+Cyprus,Europe & Central Asia,High income,2021,6658.42,0,0,0,Attain WHO Coverage Goal,36.02,46.04
+Czech Republic,Europe & Central Asia,High income,2021,57463.79,0,0,0,Attain WHO Coverage Goal,502.4,307.62
+Germany,Europe & Central Asia,High income,2021,365965,0.47,1131.76,579.08,Attain WHO Coverage Goal,2457.15,1252.24
+Djibouti,Middle East & North Africa,Lower middle income,2021,8967.97,0,0,0,Attain WHO Coverage Goal,105.04,84.17
+Denmark,Europe & Central Asia,High income,2021,32808.3,0.8,226.53,108.65,Attain WHO Coverage Goal,286.48,135.88
+Dominican Republic,Latin America & Caribbean,Upper middle income,2021,99320.76,0.08,164.41,134.98,Attain WHO Coverage Goal,2072.58,1699.48
+Algeria,Middle East & North Africa,Lower middle income,2021,408768.29,0,0,0,Attain WHO Coverage Goal,3471.18,2279.31
+Ecuador,Latin America & Caribbean,Upper middle income,2021,156033.01,0.03,94.07,66.2,Attain WHO Coverage Goal,3225.12,2280.34
+"Egypt, Arab Rep.",Middle East & North Africa,Lower middle income,2021,1007887.81,0,0,0,Attain WHO Coverage Goal,3550.67,2692.5
+Spain,Europe & Central Asia,High income,2021,245759.07,0.77,953.53,480.05,Attain WHO Coverage Goal,1266.23,637.68
+Estonia,Europe & Central Asia,High income,2021,7562.71,0.57,71.71,25.37,Attain WHO Coverage Goal,128.28,45.4
+Ethiopia,Sub-Saharan Africa,Low income,2021,1559827.09,0.75,18329.74,14777.13,Attain WHO Coverage Goal,25496.81,20636.41
+Finland,Europe & Central Asia,High income,2021,30849.46,0,0,0,Attain WHO Coverage Goal,133.02,59.17
+Fiji,East Asia & Pacific,Upper middle income,2021,8447.43,0,0,0,Attain WHO Coverage Goal,237.56,195.44
+France,Europe & Central Asia,High income,2021,393536.36,0.37,1019.08,487.63,Attain WHO Coverage Goal,2810.42,1344.78
+"Micronesia, Fed. Sts.",East Asia & Pacific,Lower middle income,2021,1201.67,0.32,10.99,9.1,Attain WHO Coverage Goal,29.05,22.59
+Gabon,Sub-Saharan Africa,Upper middle income,2021,25434.84,0,0,0,Attain WHO Coverage Goal,632.64,389.91
+United Kingdom,Europe & Central Asia,High income,2021,397772.23,0.59,1588.14,600.03,Attain WHO Coverage Goal,2740.89,1029.79
+Georgia,Europe & Central Asia,Upper middle income,2021,25412.42,0.12,30.24,20.15,Attain WHO Coverage Goal,255.75,170.13
+Ghana,Sub-Saharan Africa,Lower middle income,2021,383340.03,0,0,0,Attain WHO Coverage Goal,9293.28,6845.41
+Guinea,Sub-Saharan Africa,Low income,2021,200163.73,0,0,0,Attain WHO Coverage Goal,6611.26,5321.54
+"Gambia, The",Sub-Saharan Africa,Low income,2021,34136.51,0.3,403.54,364.71,Attain WHO Coverage Goal,1360.5,1226.96
+Guinea-Bissau,Sub-Saharan Africa,Low income,2021,28932.07,0,0,0,Attain WHO Coverage Goal,759.94,620.1
+Equatorial Guinea,Sub-Saharan Africa,Upper middle income,2021,17156.54,0,0,0,Attain WHO Coverage Goal,344.59,226.77
+Greece,Europe & Central Asia,High income,2021,52551.99,0,0,0,Attain WHO Coverage Goal,453.67,215.08
+Guatemala,Latin America & Caribbean,Upper middle income,2021,195809.51,0.15,563.65,401.63,Attain WHO Coverage Goal,4100.84,2960.89
+Guyana,Latin America & Caribbean,Upper middle income,2021,7062.52,0.02,3.56,2.25,Attain WHO Coverage Goal,180.47,114.57
+Honduras,Latin America & Caribbean,Lower middle income,2021,102447.3,0.53,833.25,575.86,Attain WHO Coverage Goal,1682.37,1154.64
+Croatia,Europe & Central Asia,High income,2021,21021.01,0,0,0,Attain WHO Coverage Goal,198.56,100.18
+Haiti,Latin America & Caribbean,Lower middle income,2021,131465.06,0,0,0,Attain WHO Coverage Goal,1702.28,1416.11
+Hungary,Europe & Central Asia,High income,2021,47350.24,0.82,539.79,231.65,Attain WHO Coverage Goal,670.97,287.44
+Indonesia,East Asia & Pacific,Lower middle income,2021,2334957.97,0.05,2373.14,1675.41,Attain WHO Coverage Goal,50733.26,36379.74
+India,South Asia,Lower middle income,2021,12967798.27,0,0,0,Attain WHO Coverage Goal,216595.56,156682.45
+Ireland,Europe & Central Asia,High income,2021,35981.35,0.71,221.95,96.53,Attain WHO Coverage Goal,319.07,138.87
+"Iran, Islamic Rep.",Middle East & North Africa,Lower middle income,2021,638877.52,0,0,0,Attain WHO Coverage Goal,2125.2,1782.51
+Iraq,Middle East & North Africa,Upper middle income,2021,472899.84,0,0,0,Attain WHO Coverage Goal,968.94,751.21
+Iceland,Europe & Central Asia,High income,2021,2284.55,0.9,11.69,7.34,Attain WHO Coverage Goal,13.27,8.35
+Israel,Middle East & North Africa,High income,2021,73862.53,0.55,203.77,141.69,Attain WHO Coverage Goal,380.55,265.8
+Italy,Europe & Central Asia,High income,2021,278469.42,0,0,0,Attain WHO Coverage Goal,1609.26,616.5
+Jamaica,Latin America & Caribbean,Upper middle income,2021,22583.76,0.02,8.65,6.3,Attain WHO Coverage Goal,456.31,334.45
+Jordan,Middle East & North Africa,Upper middle income,2021,115417.71,0,0,0,Attain WHO Coverage Goal,422.16,339.09
+Japan,East Asia & Pacific,High income,2021,542814.54,0,0,0,Attain WHO Coverage Goal,6292.98,2335.01
+Kazakhstan,Europe & Central Asia,Upper middle income,2021,170883.54,0,0,0,Attain WHO Coverage Goal,2286.12,1202.62
+Kenya,Sub-Saharan Africa,Lower middle income,2021,733831.21,0.44,6562.56,4577.62,Attain WHO Coverage Goal,17113.43,12105.51
+Kyrgyz Republic,Europe & Central Asia,Lower middle income,2021,63977.78,0,0,0,Attain WHO Coverage Goal,895.56,627.09
+Cambodia,East Asia & Pacific,Lower middle income,2021,174229.91,0,0,0,Attain WHO Coverage Goal,2092.11,1501.32
+Kiribati,East Asia & Pacific,Lower middle income,2021,1470.29,0,0,0,Attain WHO Coverage Goal,40.65,33.59
+"Korea, Rep.",East Asia & Pacific,High income,2021,221467.83,0,0,0,Attain WHO Coverage Goal,1757.69,965.14
+Kuwait,Middle East & North Africa,High income,2021,28536.15,0,0,0,Attain WHO Coverage Goal,80.18,59.37
+Lao PDR,East Asia & Pacific,Lower middle income,2021,81769.29,0.42,334.43,230.32,Attain WHO Coverage Goal,814.24,560.33
+Lebanon,Middle East & North Africa,Lower middle income,2021,51582.4,0,0,0,Attain WHO Coverage Goal,227.69,164.06
+Liberia,Sub-Saharan Africa,Low income,2021,71160.67,0.3,596.79,485,Attain WHO Coverage Goal,2280.82,1884.35
+Libya,Middle East & North Africa,Upper middle income,2021,63577.28,0,0,0,Attain WHO Coverage Goal,507.56,396.28
+St. Lucia,Latin America & Caribbean,Upper middle income,2021,1093.81,0.62,14.2,11.3,Attain WHO Coverage Goal,23.48,18.74
+Sri Lanka,South Asia,Lower middle income,2021,173681.83,0.46,780.45,483.42,Attain WHO Coverage Goal,1747.39,1083.24
+Lesotho,Sub-Saharan Africa,Lower middle income,2021,23866.25,0,0,0,Attain WHO Coverage Goal,802.38,595.12
+Lithuania,Europe & Central Asia,High income,2021,12028.09,0.66,125.96,60.99,Attain WHO Coverage Goal,194.68,94.34
+Luxembourg,Europe & Central Asia,High income,2021,3170.47,0,0,0,Attain WHO Coverage Goal,19.58,10.56
+Latvia,Europe & Central Asia,High income,2021,10008.05,0.42,60.06,32.61,Attain WHO Coverage Goal,145.46,79.51
+Morocco,Middle East & North Africa,Lower middle income,2021,320951.41,0,0,0,Attain WHO Coverage Goal,3547.27,2241.23
+Moldova,Europe & Central Asia,Upper middle income,2021,21929.86,0.35,90.29,55.24,Attain WHO Coverage Goal,264.54,163.14
+Madagascar,Sub-Saharan Africa,Low income,2021,369666.02,0,0,0,Attain WHO Coverage Goal,11686.65,9069.52
+Maldives,South Asia,Upper middle income,2021,3457.56,0.41,32.24,22.04,Attain WHO Coverage Goal,80.23,54.8
+Mexico,Latin America & Caribbean,Upper middle income,2021,1111640.59,0.01,130.15,74.95,Attain WHO Coverage Goal,13211.18,7594.11
+Marshall Islands,East Asia & Pacific,Upper middle income,2021,629.29,0.27,4,3.19,Attain WHO Coverage Goal,16.63,13.5
+North Macedonia,Europe & Central Asia,Upper middle income,2021,10896.73,0.21,14.45,9.87,Attain WHO Coverage Goal,68.66,45.63
+Mali,Sub-Saharan Africa,Low income,2021,333656.06,0,0,0,Attain WHO Coverage Goal,7116.39,5828.13
+Malta,Middle East & North Africa,High income,2021,2000.05,0.99,8.19,6.37,Attain WHO Coverage Goal,8.4,6.43
+Myanmar,East Asia & Pacific,Lower middle income,2021,515677.02,0,0,0,Attain WHO Coverage Goal,9210.45,6860.85
+Montenegro,Europe & Central Asia,Upper middle income,2021,3781.91,0,0,0,Attain WHO Coverage Goal,75.68,46.53
+Mongolia,East Asia & Pacific,Lower middle income,2021,30624.02,0,0,0,Attain WHO Coverage Goal,529.97,485.99
+Mozambique,Sub-Saharan Africa,Low income,2021,476753.7,0,0,0,Attain WHO Coverage Goal,14680.69,12148.09
+Mauritania,Sub-Saharan Africa,Lower middle income,2021,60259.89,0,0,0,Attain WHO Coverage Goal,1195.82,908.47
+Mauritius,Sub-Saharan Africa,Upper middle income,2021,7708.75,0.55,60.25,42.15,Attain WHO Coverage Goal,112.46,79.27
+Malawi,Sub-Saharan Africa,Low income,2021,291765.27,0.12,1403.55,1137.41,Attain WHO Coverage Goal,12693.87,10413.5
+Malaysia,East Asia & Pacific,Upper middle income,2021,237171.84,0.14,361.36,302.64,Attain WHO Coverage Goal,2609.43,2175.46
+Namibia,Sub-Saharan Africa,Upper middle income,2021,31136.5,0,0,0,Attain WHO Coverage Goal,998.09,718.53
+Niger,Sub-Saharan Africa,Low income,2021,399442.46,0,0,0,Attain WHO Coverage Goal,2552.6,2193.09
+Nigeria,Sub-Saharan Africa,Lower middle income,2021,3188855.31,0,0,0,Attain WHO Coverage Goal,29984.07,23293.9
+Nicaragua,Latin America & Caribbean,Lower middle income,2021,63904.58,0,0,0,Attain WHO Coverage Goal,1392.45,949.35
+Netherlands,Europe & Central Asia,High income,2021,90280.39,0.66,336.4,144.14,Attain WHO Coverage Goal,524.53,227.64
+Norway,Europe & Central Asia,High income,2021,31661.44,0.93,271.18,107.37,Attain WHO Coverage Goal,296.72,116.75
+Nepal,South Asia,Lower middle income,2021,305121.71,0,0,0,Attain WHO Coverage Goal,6341.53,4986.81
+New Zealand,East Asia & Pacific,High income,2021,31908.63,0.48,78.84,50.13,Attain WHO Coverage Goal,168.5,107.28
+Oman,Middle East & North Africa,High income,2021,31824.8,0,0,0,Attain WHO Coverage Goal,229.07,176.13
+Pakistan,South Asia,Lower middle income,2021,2530312.05,0,0,0,Attain WHO Coverage Goal,10992.75,7662.42
+Panama,Latin America & Caribbean,High income,2021,37442.76,0,0,0,Attain WHO Coverage Goal,516.51,370.42
+Peru,Latin America & Caribbean,Upper middle income,2021,285010.71,0.53,3500.65,2478.68,Attain WHO Coverage Goal,6986.35,5040.55
+Philippines,East Asia & Pacific,Lower middle income,2021,1115418.79,0,0,0,Attain WHO Coverage Goal,16326.22,11765.64
+Papua New Guinea,East Asia & Pacific,Lower middle income,2021,104276.94,0,0,0,Attain WHO Coverage Goal,2318.5,1771.16
+Poland,Europe & Central Asia,High income,2021,198103.41,0,0,0,Attain WHO Coverage Goal,2449.3,1524.75
+Portugal,Europe & Central Asia,High income,2021,47441.48,0.76,357.39,179.44,Attain WHO Coverage Goal,483.17,243.62
+Paraguay,Latin America & Caribbean,Upper middle income,2021,68468.05,0.17,348.51,258.6,Attain WHO Coverage Goal,2085.22,1548.52
+West Bank and Gaza,Middle East & North Africa,Lower middle income,2021,61185.27,0,0,0,Attain WHO Coverage Goal,549.44,420.02
+Qatar,Middle East & North Africa,High income,2021,12458.82,0,0,0,Attain WHO Coverage Goal,48.86,54.29
+Romania,Europe & Central Asia,High income,2021,107515.31,0,0,0,Attain WHO Coverage Goal,2004.62,1199.13
+Russian Federation,Europe & Central Asia,Upper middle income,2021,834221.72,0,0,0,Attain WHO Coverage Goal,8882.1,4669.76
+Rwanda,Sub-Saharan Africa,Low income,2021,175369.36,0.73,2668.68,2102.44,Attain WHO Coverage Goal,4104.17,3300.54
+Saudi Arabia,Middle East & North Africa,High income,2021,273746.83,0,0,0,Attain WHO Coverage Goal,962.52,681.54
+Sudan,Sub-Saharan Africa,Low income,2021,590543.89,0,0,0,Attain WHO Coverage Goal,4143.16,3232.19
+Senegal,Sub-Saharan Africa,Lower middle income,2021,234528.01,0.21,1567.85,1255.34,Attain WHO Coverage Goal,7202.13,5707.29
+Singapore,East Asia & Pacific,High income,2021,23541.83,0,0,0,Attain WHO Coverage Goal,218.29,162.7
+Solomon Islands,East Asia & Pacific,Lower middle income,2021,8065,0,0,0,Attain WHO Coverage Goal,208.74,150.44
+Sierra Leone,Sub-Saharan Africa,Low income,2021,124911.78,0,0,0,Attain WHO Coverage Goal,1464.07,1191.65
+El Salvador,Latin America & Caribbean,Lower middle income,2021,57398.62,0.24,193.74,148.31,Attain WHO Coverage Goal,867.48,672.51
+Somalia,Sub-Saharan Africa,Low income,2021,266237.67,0,0,0,Attain WHO Coverage Goal,3854.9,3256.87
+Serbia,Europe & Central Asia,Upper middle income,2021,46674.4,0,0,0,Attain WHO Coverage Goal,721.26,418.64
+São Tomé and Príncipe,Sub-Saharan Africa,Lower middle income,2021,3084.68,0,0,0,Attain WHO Coverage Goal,109.9,105.46
+Suriname,Latin America & Caribbean,Upper middle income,2021,5109.94,0.02,2.05,1.44,Attain WHO Coverage Goal,104.59,73.81
+Slovak Republic,Europe & Central Asia,High income,2021,28262.06,0,0,0,Attain WHO Coverage Goal,417.01,211.25
+Slovenia,Europe & Central Asia,High income,2021,10469.02,0.5,30.38,20.53,Attain WHO Coverage Goal,61.72,41.41
+Sweden,Europe & Central Asia,High income,2021,58228.23,0.83,404.21,176.54,Attain WHO Coverage Goal,496.64,216.36
+Eswatini,Sub-Saharan Africa,Lower middle income,2021,16762.61,0,0,0,Attain WHO Coverage Goal,913.33,663.23
+Chad,Sub-Saharan Africa,Low income,2021,278497.94,0,0,0,Attain WHO Coverage Goal,2766.06,2327.64
+Togo,Sub-Saharan Africa,Low income,2021,118291.36,0,0,0,Attain WHO Coverage Goal,1743.74,1382.38
+Thailand,East Asia & Pacific,Upper middle income,2021,401300.59,0,0,0,Attain WHO Coverage Goal,7136.71,4718.93
+Tajikistan,Europe & Central Asia,Lower middle income,2021,104298.89,0,0,0,Attain WHO Coverage Goal,802.74,605.85
+Turkmenistan,Europe & Central Asia,Upper middle income,2021,55962.83,0.99,669.49,451.26,Attain WHO Coverage Goal,678.83,455.61
+Timor-Leste,East Asia & Pacific,Lower middle income,2021,16226.1,0,0,0,Attain WHO Coverage Goal,208.43,158.85
+Tonga,East Asia & Pacific,Upper middle income,2021,1163.03,0,0,0,Attain WHO Coverage Goal,35.88,30.03
+Trinidad and Tobago,Latin America & Caribbean,High income,2021,9841.3,0.08,17.34,11.5,Attain WHO Coverage Goal,209.95,139.06
+Tunisia,Middle East & North Africa,Lower middle income,2021,86441.94,0,0,0,Attain WHO Coverage Goal,435.96,268.1
+Türkiye,Europe & Central Asia,Upper middle income,2021,676186.54,0,0,0,Attain WHO Coverage Goal,4016.45,2658.91
+Tuvalu,East Asia & Pacific,Upper middle income,2021,132.82,0.27,0.93,0.76,Attain WHO Coverage Goal,4,3.35
+Tanzania,Sub-Saharan Africa,Lower middle income,2021,856972.99,0.57,23855.98,17552.71,Attain WHO Coverage Goal,43297.14,31845.31
+Uganda,Sub-Saharan Africa,Low income,2021,701029.21,0.44,11018.28,8696.14,Attain WHO Coverage Goal,27928.42,22459.36
+Ukraine,Europe & Central Asia,Lower middle income,2021,244956.31,0,0,0,Attain WHO Coverage Goal,2585.5,1139.65
+Uruguay,Latin America & Caribbean,High income,2021,22921.32,0.17,37.48,25.18,Attain WHO Coverage Goal,225.98,152.25
+United States,North America,High income,2021,2081906.53,0.48,5476.59,2808.47,Attain WHO Coverage Goal,11605.35,5926.69
+Uzbekistan,Europe & Central Asia,Lower middle income,2021,305807.06,0.87,2417.27,1636.61,Attain WHO Coverage Goal,2843.44,1925.32
+Vietnam,East Asia & Pacific,Lower middle income,2021,699864.97,0,0,0,Attain WHO Coverage Goal,5198.94,3706.23
+Vanuatu,East Asia & Pacific,Lower middle income,2021,3802.48,0,0,0,Attain WHO Coverage Goal,46.24,41.1
+Samoa,East Asia & Pacific,Lower middle income,2021,2256.03,0,0,0,Attain WHO Coverage Goal,24.16,19.37
+Kosovo,Europe & Central Asia,Upper middle income,2021,9579.2,0,0,0,Attain WHO Coverage Goal,55.39,33.34
+South Africa,Sub-Saharan Africa,Upper middle income,2021,602525.96,0.34,5313.89,3096.83,Attain WHO Coverage Goal,16044.02,9405.02
+Zambia,Sub-Saharan Africa,Low income,2021,274554.25,0.33,3993.5,2841.51,Attain WHO Coverage Goal,13427.44,9711.05
+Zimbabwe,Sub-Saharan Africa,Lower middle income,2021,218636.87,0.4,3637.37,2772.74,Attain WHO Coverage Goal,9955.35,7686.01
+Afghanistan,South Asia,Low income,2022,578152.48,0.1,404.36,312.79,Attain WHO Coverage Goal,4250.92,3298.82
+Angola,Sub-Saharan Africa,Lower middle income,2022,545561.66,0.1,1353.54,984.3,Attain WHO Coverage Goal,14492.88,10629.32
+Albania,Europe & Central Asia,Upper middle income,2022,15146.54,0.1,8.96,5.51,Attain WHO Coverage Goal,89.82,54.72
+United Arab Emirates,Middle East & North Africa,High income,2022,48679.96,0.1,38.48,29.48,Attain WHO Coverage Goal,373.85,282.71
+Argentina,Latin America & Caribbean,Upper middle income,2022,363663.03,0.571111111,2827,1879.94,Attain WHO Coverage Goal,5002.54,3296.31
+Armenia,Europe & Central Asia,Upper middle income,2022,19759.35,0.171111111,28.8,21.57,Attain WHO Coverage Goal,166.32,123.27
+Australia,East Asia & Pacific,High income,2022,162890.97,0.686666667,548.61,298.14,Attain WHO Coverage Goal,821.21,451.08
+Austria,Europe & Central Asia,High income,2022,41090.75,0.1,22.65,12.02,Attain WHO Coverage Goal,229.67,121.22
+Azerbaijan,Europe & Central Asia,Upper middle income,2022,74549.31,0.1,44.26,30.03,Attain WHO Coverage Goal,449.45,304.25
+Burundi,Sub-Saharan Africa,Low income,2022,186019.67,0.1,585.77,486.03,Attain WHO Coverage Goal,6392.72,5352.7
+Belgium,Europe & Central Asia,High income,2022,66313.06,0.722222222,335.94,155.11,Attain WHO Coverage Goal,474.76,218.95
+Benin,Sub-Saharan Africa,Lower middle income,2022,177294.7,0.1,163.84,120.14,Attain WHO Coverage Goal,1790.81,1322.66
+Burkina Faso,Sub-Saharan Africa,Low income,2022,329981.84,0.1,345.03,284.33,Attain WHO Coverage Goal,3770.24,3136.24
+Bangladesh,South Asia,Lower middle income,2022,1542105.68,0.1,1251.18,881.49,Attain WHO Coverage Goal,12551.56,8805.28
+Bulgaria,Europe & Central Asia,Upper middle income,2022,35951.36,0.126666667,67.2,37.84,Attain WHO Coverage Goal,536.38,296.73
+Bahrain,Middle East & North Africa,High income,2022,9883.53,0.1,4.72,3.13,Attain WHO Coverage Goal,47.65,31.55
+"Bahamas, The",Latin America & Caribbean,High income,2022,2974.85,0.1,4.7,3.45,Attain WHO Coverage Goal,47.77,35.1
+Bosnia and Herzegovina,Europe & Central Asia,Upper middle income,2022,17473.53,0.1,17.45,9.76,Attain WHO Coverage Goal,177.65,99.73
+Belarus,Europe & Central Asia,Upper middle income,2022,52208.92,0.1,48.77,22.76,Attain WHO Coverage Goal,491.99,227.92
+Belize,Latin America & Caribbean,Upper middle income,2022,3821.27,0.135555556,10.54,10.29,Attain WHO Coverage Goal,78.73,76.83
+Bolivia,Latin America & Caribbean,Lower middle income,2022,121689.06,0.42,1241.3,854.43,Attain WHO Coverage Goal,3081.15,2364.25
+Brazil,Latin America & Caribbean,Upper middle income,2022,1470369.64,0.695555556,13131.42,7913.47,Attain WHO Coverage Goal,19383.21,11772.35
+Barbados,Latin America & Caribbean,High income,2022,1665.43,0.348888889,10.31,7.03,Attain WHO Coverage Goal,30.7,20.91
+Brunei Darussalam,East Asia & Pacific,High income,2022,3178.03,0.891111111,39.26,12.89,Attain WHO Coverage Goal,45,14.78
+Bhutan,South Asia,Lower middle income,2022,6644.48,0.882222222,65.39,44.15,Attain WHO Coverage Goal,71.98,48.26
+Botswana,Sub-Saharan Africa,Upper middle income,2022,27047.79,0.295555556,209.85,141.32,Attain WHO Coverage Goal,836.37,586.47
+Central African Republic,Sub-Saharan Africa,Low income,2022,80644.38,0.1,94.5,77.59,Attain WHO Coverage Goal,990.83,815.72
+Canada,North America,High income,2022,198361.1,0.873333333,879.54,512.82,Attain WHO Coverage Goal,1029.42,598.01
+Switzerland,Europe & Central Asia,High income,2022,41282.02,0.731111111,116.57,64.12,Attain WHO Coverage Goal,163.26,89.98
+Chile,Latin America & Caribbean,High income,2022,125345.79,0.606666667,952.93,663.33,Attain WHO Coverage Goal,1583.32,1096.25
+China,East Asia & Pacific,Upper middle income,2022,8101533.19,0.1,6982.16,4507.98,Attain WHO Coverage Goal,69508.78,44283.16
+Côte d’Ivoire,Sub-Saharan Africa,Lower middle income,2022,376162.62,0.464444444,3559.74,2787.05,Attain WHO Coverage Goal,7850.35,6117.94
+Cameroon,Sub-Saharan Africa,Lower middle income,2022,393973.36,0.144444444,1109.32,820.96,Attain WHO Coverage Goal,8034.03,5977.21
+"Congo, Dem. Rep.",Sub-Saharan Africa,Low income,2022,1425068.82,0.1,2887.35,2293.46,Attain WHO Coverage Goal,31879.83,25610.45
+"Congo, Rep.",Sub-Saharan Africa,Lower middle income,2022,77668.82,0.1,129.2,88.89,Attain WHO Coverage Goal,1462.52,1025.96
+Colombia,Latin America & Caribbean,Upper middle income,2022,375244.33,0.197777778,1174.81,811.29,Attain WHO Coverage Goal,6039.94,4175.21
+Comoros,Sub-Saharan Africa,Lower middle income,2022,11527.03,0.1,42.73,33.08,Attain WHO Coverage Goal,434.09,335.78
+Cabo Verde,Sub-Saharan Africa,Lower middle income,2022,5228.22,0.1,8.34,7.54,Attain WHO Coverage Goal,81.42,73.03
+Costa Rica,Latin America & Caribbean,Upper middle income,2022,35257.44,0.624444444,200.02,181.3,Attain WHO Coverage Goal,326.7,297.4
+Cyprus,Europe & Central Asia,High income,2022,6729.82,0.1,3.59,4.64,Attain WHO Coverage Goal,36.47,46.73
+Czech Republic,Europe & Central Asia,High income,2022,56458.28,0.1,48.46,29.7,Attain WHO Coverage Goal,494.55,303.23
+Germany,Europe & Central Asia,High income,2022,367190.16,0.517777778,1252.49,641.8,Attain WHO Coverage Goal,2468.59,1259.98
+Djibouti,Middle East & North Africa,Lower middle income,2022,9497.74,0.1,10.13,8.03,Attain WHO Coverage Goal,111.95,89.75
+Denmark,Europe & Central Asia,High income,2022,31701.43,0.811111111,222.32,106.86,Attain WHO Coverage Goal,277.3,131.8
+Dominican Republic,Latin America & Caribbean,Upper middle income,2022,99567.53,0.171111111,353.95,290.76,Attain WHO Coverage Goal,2085.97,1711.43
+Algeria,Middle East & North Africa,Lower middle income,2022,424047.52,0.1,358.44,235.81,Attain WHO Coverage Goal,3614.05,2373.93
+Ecuador,Latin America & Caribbean,Upper middle income,2022,157185.48,0.126666667,401.72,282.95,Attain WHO Coverage Goal,3262.3,2308.51
+"Egypt, Arab Rep.",Middle East & North Africa,Lower middle income,2022,1076485.34,0.1,370.16,280.2,Attain WHO Coverage Goal,3816.21,2896.68
+Spain,Europe & Central Asia,High income,2022,238530.64,0.784444444,944.29,475.92,Attain WHO Coverage Goal,1230.91,620.57
+Estonia,Europe & Central Asia,High income,2022,7495.51,0.606666667,76,26.92,Attain WHO Coverage Goal,127.74,45.26
+Ethiopia,Sub-Saharan Africa,Low income,2022,1578707.99,0.766666667,19180.96,15470.15,Attain WHO Coverage Goal,26090.42,21125.63
+Finland,Europe & Central Asia,High income,2022,30817.64,0.1,12.98,5.75,Attain WHO Coverage Goal,133.11,59.32
+Fiji,East Asia & Pacific,Upper middle income,2022,8509.26,0.1,23.45,19.2,Attain WHO Coverage Goal,240.6,198.2
+France,Europe & Central Asia,High income,2022,393617.13,0.428888889,1183.44,566.68,Attain WHO Coverage Goal,2815.63,1348.23
+"Micronesia, Fed. Sts.",East Asia & Pacific,Lower middle income,2022,1184.93,0.384444444,13.07,10.83,Attain WHO Coverage Goal,28.77,22.41
+Gabon,Sub-Saharan Africa,Upper middle income,2022,26482.69,0.1,62.83,38.45,Attain WHO Coverage Goal,663.09,409.15
+United Kingdom,Europe & Central Asia,High income,2022,401632.2,0.624444444,1698.8,642.98,Attain WHO Coverage Goal,2770.23,1042.72
+Georgia,Europe & Central Asia,Upper middle income,2022,26158.3,0.206666667,53.82,35.89,Attain WHO Coverage Goal,264.32,175.96
+Ghana,Sub-Saharan Africa,Lower middle income,2022,390901.74,0.1,927.79,685.36,Attain WHO Coverage Goal,9582.08,7067.31
+Guinea,Sub-Saharan Africa,Low income,2022,202675.34,0.1,616.19,492.45,Attain WHO Coverage Goal,6763.12,5447.75
+"Gambia, The",Sub-Saharan Africa,Low income,2022,35067.51,0.366666667,512.96,463.93,Attain WHO Coverage Goal,1417.4,1279.51
+Guinea-Bissau,Sub-Saharan Africa,Low income,2022,29415.37,0.1,77.2,63.03,Attain WHO Coverage Goal,783.17,639.42
+Equatorial Guinea,Sub-Saharan Africa,Upper middle income,2022,17731.65,0.1,35.7,23.5,Attain WHO Coverage Goal,359.57,236.6
+Greece,Europe & Central Asia,High income,2022,50698.18,0.1,42.54,20.06,Attain WHO Coverage Goal,438.63,208.21
+Guatemala,Latin America & Caribbean,Upper middle income,2022,196916.16,0.233333333,886.39,631.97,Attain WHO Coverage Goal,4146.43,2995.42
+Guyana,Latin America & Caribbean,Upper middle income,2022,7118.51,0.117777778,21.24,13.45,Attain WHO Coverage Goal,182.68,116.06
+Honduras,Latin America & Caribbean,Lower middle income,2022,101183.24,0.571111111,890.3,615.26,Attain WHO Coverage Goal,1667.8,1144.61
+Croatia,Europe & Central Asia,High income,2022,20587.89,0.1,19.14,9.67,Attain WHO Coverage Goal,194.91,98.48
+Haiti,Latin America & Caribbean,Lower middle income,2022,131673.58,0.1,151.37,124.59,Attain WHO Coverage Goal,1718.55,1430.2
+Hungary,Europe & Central Asia,High income,2022,46188.95,0.828888889,533.24,229.19,Attain WHO Coverage Goal,655.66,281.28
+Indonesia,East Asia & Pacific,Lower middle income,2022,2380444.33,0.144444444,7021.54,4961.47,Attain WHO Coverage Goal,51945.36,37278.92
+India,South Asia,Lower middle income,2022,12670735.08,0.1,22526.58,16661.2,Attain WHO Coverage Goal,213348.78,154459.96
+Ireland,Europe & Central Asia,High income,2022,35998.93,0.731111111,229.18,99.84,Attain WHO Coverage Goal,319.94,139.48
+"Iran, Islamic Rep.",Middle East & North Africa,Lower middle income,2022,648846.7,0.1,220.41,186.45,Attain WHO Coverage Goal,2171.07,1822.29
+Iraq,Middle East & North Africa,Upper middle income,2022,489401.33,0.1,99.76,77.49,Attain WHO Coverage Goal,1006.5,780.64
+Iceland,Europe & Central Asia,High income,2022,2285.2,0.9,11.69,7.35,Attain WHO Coverage Goal,13.27,8.36
+Israel,Middle East & North Africa,High income,2022,75884.46,0.588888889,224.55,156.33,Attain WHO Coverage Goal,391.75,274.01
+Italy,Europe & Central Asia,High income,2022,275244.72,0.1,156.11,60.06,Attain WHO Coverage Goal,1592.41,610.91
+Jamaica,Latin America & Caribbean,Upper middle income,2022,22731.97,0.117777778,51.48,37.53,Attain WHO Coverage Goal,460.87,337.96
+Jordan,Middle East & North Africa,Upper middle income,2022,113948.04,0.1,43.8,35.69,Attain WHO Coverage Goal,418.5,336.39
+Japan,East Asia & Pacific,High income,2022,542175.18,0.1,616.22,228.89,Attain WHO Coverage Goal,6290.9,2337.01
+Kazakhstan,Europe & Central Asia,Upper middle income,2022,177856.53,0.1,227.23,117.66,Attain WHO Coverage Goal,2387.74,1256.92
+Kenya,Sub-Saharan Africa,Lower middle income,2022,734704.53,0.491111111,7395.69,5160.89,Attain WHO Coverage Goal,17259.85,12213.49
+Kyrgyz Republic,Europe & Central Asia,Lower middle income,2022,68150.72,0.1,93.58,65.5,Attain WHO Coverage Goal,957.76,671.15
+Cambodia,East Asia & Pacific,Lower middle income,2022,175431.96,0.1,209.98,151.69,Attain WHO Coverage Goal,2124.13,1525.74
+Kiribati,East Asia & Pacific,Lower middle income,2022,1449.99,0.1,3.44,2.72,Attain WHO Coverage Goal,40.23,33.27
+"Korea, Rep.",East Asia & Pacific,High income,2022,222641.53,0.1,173.31,95.03,Attain WHO Coverage Goal,1770.19,973.63
+Kuwait,Middle East & North Africa,High income,2022,28920.22,0.1,8.32,6.24,Attain WHO Coverage Goal,81.39,60.29
+Lao PDR,East Asia & Pacific,Lower middle income,2022,81199.57,0.473333333,377.21,260.06,Attain WHO Coverage Goal,814.81,561.31
+Lebanon,Middle East & North Africa,Lower middle income,2022,50554.59,0.1,21.56,15.47,Attain WHO Coverage Goal,223.91,161.44
+Liberia,Sub-Saharan Africa,Low income,2022,71586.38,0.366666667,743.44,604.57,Attain WHO Coverage Goal,2324.5,1921.68
+Libya,Middle East & North Africa,Upper middle income,2022,64418.5,0.1,51.07,40.32,Attain WHO Coverage Goal,516.5,403.71
+St. Lucia,Latin America & Caribbean,Upper middle income,2022,1095.96,0.651111111,14.99,11.93,Attain WHO Coverage Goal,23.6,18.84
+Sri Lanka,South Asia,Lower middle income,2022,172041.71,0.508888889,857.71,531.57,Attain WHO Coverage Goal,1735.78,1076.64
+Lesotho,Sub-Saharan Africa,Lower middle income,2022,24025.85,0.1,70.56,51.01,Attain WHO Coverage Goal,814.35,604.48
+Lithuania,Europe & Central Asia,High income,2022,12951.01,0.686666667,141.2,68.44,Attain WHO Coverage Goal,209.72,101.71
+Luxembourg,Europe & Central Asia,High income,2022,3235.53,0.1,1.94,1.04,Attain WHO Coverage Goal,20.07,10.84
+Latvia,Europe & Central Asia,High income,2022,9531.93,0.473333333,64.59,35.12,Attain WHO Coverage Goal,138.8,75.98
+Morocco,Middle East & North Africa,Lower middle income,2022,329000.45,0.1,348.09,219.23,Attain WHO Coverage Goal,3652.21,2308.05
+Moldova,Europe & Central Asia,Upper middle income,2022,21906.88,0.411111111,106.17,65.05,Attain WHO Coverage Goal,264.85,163.57
+Madagascar,Sub-Saharan Africa,Low income,2022,373792.19,0.1,1122.87,866.6,Attain WHO Coverage Goal,11904.12,9242.86
+Maldives,South Asia,Upper middle income,2022,3510.16,0.464444444,37.18,25.42,Attain WHO Coverage Goal,81.69,55.81
+Mexico,Latin America & Caribbean,Upper middle income,2022,1114915.24,0.108888889,1426.76,822.21,Attain WHO Coverage Goal,13297.8,7649.02
+Marshall Islands,East Asia & Pacific,Upper middle income,2022,620.32,0.34,4.99,3.99,Attain WHO Coverage Goal,16.48,13.4
+North Macedonia,Europe & Central Asia,Upper middle income,2022,11021.9,0.286666667,20.01,13.68,Attain WHO Coverage Goal,69.64,46.36
+Mali,Sub-Saharan Africa,Low income,2022,338886.38,0.1,699.44,571.94,Attain WHO Coverage Goal,7299.87,5980.22
+Malta,Middle East & North Africa,High income,2022,2021.55,0.99,8.3,6.46,Attain WHO Coverage Goal,8.52,6.52
+Myanmar,East Asia & Pacific,Lower middle income,2022,505058.94,0.1,888.53,662.84,Attain WHO Coverage Goal,9083.72,6773.24
+Montenegro,Europe & Central Asia,Upper middle income,2022,3726.76,0.1,7.29,4.65,Attain WHO Coverage Goal,74.4,45.85
+Mongolia,East Asia & Pacific,Lower middle income,2022,32424.9,0.1,59,58.56,Attain WHO Coverage Goal,564.58,519.07
+Mozambique,Sub-Saharan Africa,Low income,2022,484030.34,0.1,1423.16,1168.61,Attain WHO Coverage Goal,15074.34,12480.42
+Mauritania,Sub-Saharan Africa,Lower middle income,2022,61896.55,0.1,126.98,97.32,Attain WHO Coverage Goal,1235.75,939.35
+Mauritius,Sub-Saharan Africa,Upper middle income,2022,7478.21,0.588888889,62.8,44.01,Attain WHO Coverage Goal,109.46,77.27
+Malawi,Sub-Saharan Africa,Low income,2022,292034.5,0.206666667,2442.35,1980.03,Attain WHO Coverage Goal,12824.77,10525.05
+Malaysia,East Asia & Pacific,Upper middle income,2022,239282.74,0.224444444,586.05,491.52,Attain WHO Coverage Goal,2639.98,2204.08
+Namibia,Sub-Saharan Africa,Upper middle income,2022,31759.89,0.1,91.85,65.15,Attain WHO Coverage Goal,1029.27,742.01
+Niger,Sub-Saharan Africa,Low income,2022,409947.51,0.1,256.12,219.63,Attain WHO Coverage Goal,2661.11,2287.17
+Nigeria,Sub-Saharan Africa,Lower middle income,2022,3259693.3,0.1,2818.32,2173.54,Attain WHO Coverage Goal,30974.42,24081.2
+Nicaragua,Latin America & Caribbean,Lower middle income,2022,64098.1,0.1,131.65,89.41,Attain WHO Coverage Goal,1402.93,956.79
+Netherlands,Europe & Central Asia,High income,2022,89711.29,0.686666667,348.51,149.66,Attain WHO Coverage Goal,522.3,227.15
+Norway,Europe & Central Asia,High income,2022,31539.56,0.93,270.5,107.4,Attain WHO Coverage Goal,295.99,116.78
+Nepal,South Asia,Lower middle income,2022,300613.28,0.1,615.77,485.37,Attain WHO Coverage Goal,6297.17,4955.59
+New Zealand,East Asia & Pacific,High income,2022,31761.28,0.526666667,86.23,54.9,Attain WHO Coverage Goal,168.01,107.15
+Oman,Middle East & North Africa,High income,2022,33269.78,0.1,23.8,18.35,Attain WHO Coverage Goal,240.06,184.68
+Pakistan,South Asia,Lower middle income,2022,2561489.98,0.1,1089.1,758.97,Attain WHO Coverage Goal,11186.34,7800.36
+Panama,Latin America & Caribbean,High income,2022,37841.11,0.1,50.87,36.41,Attain WHO Coverage Goal,523.55,375.69
+Peru,Latin America & Caribbean,Upper middle income,2022,276966.22,0.571111111,3681.56,2609.56,Attain WHO Coverage Goal,6818.33,4923.92
+Philippines,East Asia & Pacific,Lower middle income,2022,1129273.83,0.1,1584.01,1117.36,Attain WHO Coverage Goal,16583.18,11965.3
+Papua New Guinea,East Asia & Pacific,Lower middle income,2022,104868.26,0.1,241.94,189.37,Attain WHO Coverage Goal,2347.11,1796.32
+Poland,Europe & Central Asia,High income,2022,193873.49,0.1,231.89,143.24,Attain WHO Coverage Goal,2402.56,1496.83
+Portugal,Europe & Central Asia,High income,2022,46259.2,0.775555556,356.52,179.23,Attain WHO Coverage Goal,472.35,238.47
+Paraguay,Latin America & Caribbean,Upper middle income,2022,68215.62,0.251111111,514.71,382.37,Attain WHO Coverage Goal,2084.88,1549.93
+West Bank and Gaza,Middle East & North Africa,Lower middle income,2022,62847.44,0.1,58.51,45.13,Attain WHO Coverage Goal,567.26,433.89
+Qatar,Middle East & North Africa,High income,2022,12684.98,0.1,4.94,5.65,Attain WHO Coverage Goal,49.8,55.4
+Romania,Europe & Central Asia,High income,2022,103479.84,0.1,192.27,116.84,Attain WHO Coverage Goal,1934.36,1158.69
+Russian Federation,Europe & Central Asia,Upper middle income,2022,862296.96,0.1,917.71,485.19,Attain WHO Coverage Goal,9200.95,4841.27
+Rwanda,Sub-Saharan Africa,Low income,2022,175041.53,0.748888889,2772.58,2185.9,Attain WHO Coverage Goal,4153.29,3341.97
+Saudi Arabia,Middle East & North Africa,High income,2022,280245.63,0.1,105.25,76.49,Attain WHO Coverage Goal,989.56,701.3
+Sudan,Sub-Saharan Africa,Low income,2022,595171.15,0.1,394.98,305.62,Attain WHO Coverage Goal,4223.07,3296.46
+Senegal,Sub-Saharan Africa,Lower middle income,2022,239959,0.286666667,2212.39,1772.34,Attain WHO Coverage Goal,7445.36,5903.42
+Singapore,East Asia & Pacific,High income,2022,22731,0.1,20.62,15.35,Attain WHO Coverage Goal,211.25,157.55
+Solomon Islands,East Asia & Pacific,Lower middle income,2022,8381.72,0.1,19.46,13.69,Attain WHO Coverage Goal,217.78,157.06
+Sierra Leone,Sub-Saharan Africa,Low income,2022,124826.82,0.1,156.92,127.95,Attain WHO Coverage Goal,1485.18,1209.3
+El Salvador,Latin America & Caribbean,Lower middle income,2022,56692.73,0.313333333,251.12,192.41,Attain WHO Coverage Goal,861.18,668.19
+Somalia,Sub-Saharan Africa,Low income,2022,270019.17,0.1,379.02,319.76,Attain WHO Coverage Goal,3931.68,3322.58
+Serbia,Europe & Central Asia,Upper middle income,2022,45425.49,0.1,70.09,41.43,Attain WHO Coverage Goal,702.98,408.56
+São Tomé and Príncipe,Sub-Saharan Africa,Lower middle income,2022,3088.8,0.1,9.23,8.8,Attain WHO Coverage Goal,111.04,106.57
+Suriname,Latin America & Caribbean,Upper middle income,2022,5132.2,0.117777778,12.18,8.53,Attain WHO Coverage Goal,105.38,74.38
+Slovak Republic,Europe & Central Asia,High income,2022,28072.42,0.1,41.01,21.03,Attain WHO Coverage Goal,415.14,210.62
+Slovenia,Europe & Central Asia,High income,2022,10562.49,0.544444444,33.42,22.64,Attain WHO Coverage Goal,62.37,41.93
+Sweden,Europe & Central Asia,High income,2022,58318.61,0.837777778,409.08,179.1,Attain WHO Coverage Goal,497.98,217.47
+Eswatini,Sub-Saharan Africa,Lower middle income,2022,16275.95,0.1,83.96,60.21,Attain WHO Coverage Goal,899.46,653.55
+Chad,Sub-Saharan Africa,Low income,2022,283918.35,0.1,259.89,216.65,Attain WHO Coverage Goal,2847.26,2396.84
+Togo,Sub-Saharan Africa,Low income,2022,119616.19,0.1,164.73,129.77,Attain WHO Coverage Goal,1782.32,1414.4
+Thailand,East Asia & Pacific,Upper middle income,2022,395328.98,0.1,724.81,490.86,Attain WHO Coverage Goal,7052.8,4667.85
+Tajikistan,Europe & Central Asia,Lower middle income,2022,109390.02,0.1,80.47,60.32,Attain WHO Coverage Goal,847.46,640.25
+Turkmenistan,Europe & Central Asia,Upper middle income,2022,60163.29,0.99,723.02,487.69,Attain WHO Coverage Goal,733.12,492.38
+Timor-Leste,East Asia & Pacific,Lower middle income,2022,16032.34,0.1,20.07,15.3,Attain WHO Coverage Goal,207.71,158.47
+Tonga,East Asia & Pacific,Upper middle income,2022,1177.9,0.1,3.73,3.16,Attain WHO Coverage Goal,36.51,30.59
+Trinidad and Tobago,Latin America & Caribbean,High income,2022,9826.19,0.171111111,37.18,24.66,Attain WHO Coverage Goal,210.5,139.45
+Tunisia,Middle East & North Africa,Lower middle income,2022,90732.66,0.1,46.1,28.49,Attain WHO Coverage Goal,459.1,282.43
+Türkiye,Europe & Central Asia,Upper middle income,2022,674416.82,0.1,395.26,261.29,Attain WHO Coverage Goal,4022.75,2665.33
+Tuvalu,East Asia & Pacific,Upper middle income,2022,134.39,0.34,1.19,0.97,Attain WHO Coverage Goal,4.07,3.41
+Tanzania,Sub-Saharan Africa,Lower middle income,2022,869887.39,0.606666667,26000.75,19138.45,Attain WHO Coverage Goal,44358.19,32640.39
+Uganda,Sub-Saharan Africa,Low income,2022,713082.88,0.491111111,12653.7,9992.98,Attain WHO Coverage Goal,28744.48,23129.92
+Ukraine,Europe & Central Asia,Lower middle income,2022,245700.9,0.1,261.52,115.92,Attain WHO Coverage Goal,2598.27,1145.65
+Uruguay,Latin America & Caribbean,High income,2022,23054.99,0.251111111,55.82,37.55,Attain WHO Coverage Goal,227.82,153.65
+United States,North America,High income,2022,2056728.37,0.526666667,5944.29,3052.17,Attain WHO Coverage Goal,11479.9,5869.56
+Uzbekistan,Europe & Central Asia,Lower middle income,2022,311638.69,0.873333333,2484.97,1683.34,Attain WHO Coverage Goal,2911.63,1972.53
+Vietnam,East Asia & Pacific,Lower middle income,2022,706080.72,0.1,516.19,368.61,Attain WHO Coverage Goal,5260.8,3753.4
+Vanuatu,East Asia & Pacific,Lower middle income,2022,3797.01,0.1,4.46,3.97,Attain WHO Coverage Goal,46.19,41.06
+Samoa,East Asia & Pacific,Lower middle income,2022,2260.67,0.1,2.33,1.86,Attain WHO Coverage Goal,24.24,19.44
+Kosovo,Europe & Central Asia,Upper middle income,2022,9284.95,0.1,5.43,3.31,Attain WHO Coverage Goal,53.99,32.52
+South Africa,Sub-Saharan Africa,Upper middle income,2022,605436.73,0.402222222,6379.28,3718.33,Attain WHO Coverage Goal,16301.3,9558.17
+Zambia,Sub-Saharan Africa,Low income,2022,279161.48,0.393333333,4889.05,3480.41,Attain WHO Coverage Goal,13803.57,9988.99
+Zimbabwe,Sub-Saharan Africa,Lower middle income,2022,226713.99,0.455555556,4317.54,3293.17,Attain WHO Coverage Goal,10403.67,8039.74
+Afghanistan,South Asia,Low income,2023,578102.99,0.2,815.49,631.01,Attain WHO Coverage Goal,4282.76,3324.23
+Angola,Sub-Saharan Africa,Lower middle income,2023,555105.29,0.2,2794.5,2033.41,Attain WHO Coverage Goal,14958.39,10976.9
+Albania,Europe & Central Asia,Upper middle income,2023,15482.19,0.2,18.36,11.29,Attain WHO Coverage Goal,91.99,56.05
+United Arab Emirates,Middle East & North Africa,High income,2023,50104.85,0.2,79.33,60.8,Attain WHO Coverage Goal,385.33,291.49
+Argentina,Latin America & Caribbean,Upper middle income,2023,366089.19,0.612222222,3057.02,2034.79,Attain WHO Coverage Goal,5044.08,3325.72
+Armenia,Europe & Central Asia,Upper middle income,2023,20043.47,0.262222222,44.92,33.66,Attain WHO Coverage Goal,169.15,125.42
+Australia,East Asia & Pacific,High income,2023,164394.53,0.713333333,575.89,313.54,Attain WHO Coverage Goal,829.61,456.17
+Austria,Europe & Central Asia,High income,2023,41151.1,0.2,45.45,24.15,Attain WHO Coverage Goal,230.25,121.6
+Azerbaijan,Europe & Central Asia,Upper middle income,2023,78278.46,0.2,93.37,63.37,Attain WHO Coverage Goal,473.88,320.88
+Burundi,Sub-Saharan Africa,Low income,2023,190957.05,0.2,1217.41,1010.43,Attain WHO Coverage Goal,6645.9,5566.59
+Belgium,Europe & Central Asia,High income,2023,66306.92,0.744444444,346.85,160.38,Attain WHO Coverage Goal,475.32,219.41
+Benin,Sub-Saharan Africa,Lower middle income,2023,180933.27,0.2,336.33,246.68,Attain WHO Coverage Goal,1837.48,1357.46
+Burkina Faso,Sub-Saharan Africa,Low income,2023,334802.39,0.2,707.2,582.92,Attain WHO Coverage Goal,3865.25,3216.16
+Bangladesh,South Asia,Lower middle income,2023,1527205.25,0.2,2492.38,1756.73,Attain WHO Coverage Goal,12491.83,8766.18
+Bulgaria,Europe & Central Asia,Upper middle income,2023,34831.51,0.223333333,115.14,64.94,Attain WHO Coverage Goal,521.02,288.5
+Bahrain,Middle East & North Africa,High income,2023,10071.23,0.2,9.64,6.39,Attain WHO Coverage Goal,48.59,32.18
+"Bahamas, The",Latin America & Caribbean,High income,2023,2832.73,0.2,8.98,6.59,Attain WHO Coverage Goal,45.59,33.5
+Bosnia and Herzegovina,Europe & Central Asia,Upper middle income,2023,16953.84,0.2,33.9,18.98,Attain WHO Coverage Goal,172.49,96.93
+Belarus,Europe & Central Asia,Upper middle income,2023,54933.47,0.2,102.84,48.04,Attain WHO Coverage Goal,518.48,240.32
+Belize,Latin America & Caribbean,Upper middle income,2023,3850.63,0.231111111,18.18,17.75,Attain WHO Coverage Goal,79.54,77.63
+Bolivia,Latin America & Caribbean,Lower middle income,2023,121555.67,0.48,1424.48,983.19,Attain WHO Coverage Goal,3090.99,2374.54
+Brazil,Latin America & Caribbean,Upper middle income,2023,1463528.92,0.721111111,13603.84,8204.41,Attain WHO Coverage Goal,19352.65,11759.11
+Barbados,Latin America & Caribbean,High income,2023,1617.37,0.417777778,12.02,8.2,Attain WHO Coverage Goal,29.88,20.35
+Brunei Darussalam,East Asia & Pacific,High income,2023,3282.11,0.892222222,40.62,13.34,Attain WHO Coverage Goal,46.49,15.28
+Bhutan,South Asia,Lower middle income,2023,6509.3,0.884444444,64.54,43.6,Attain WHO Coverage Goal,70.86,47.52
+Botswana,Sub-Saharan Africa,Upper middle income,2023,27437.12,0.371111111,269.31,181.54,Attain WHO Coverage Goal,853.52,598.86
+Central African Republic,Sub-Saharan Africa,Low income,2023,80686.93,0.2,190.69,156.62,Attain WHO Coverage Goal,999.81,823.37
+Canada,North America,High income,2023,198031.65,0.876666667,882.48,515.23,Attain WHO Coverage Goal,1028.54,598.03
+Switzerland,Europe & Central Asia,High income,2023,41849.01,0.752222222,121.84,67.1,Attain WHO Coverage Goal,165.71,91.38
+Chile,Latin America & Caribbean,High income,2023,125549.05,0.643333333,1014.22,706.57,Attain WHO Coverage Goal,1587.97,1100.06
+China,East Asia & Pacific,Upper middle income,2023,8160978.86,0.2,14112.38,9116.71,Attain WHO Coverage Goal,70217.8,44754.43
+Côte d’Ivoire,Sub-Saharan Africa,Lower middle income,2023,383521.63,0.518888889,4090.99,3204.3,Attain WHO Coverage Goal,8072.68,6293.82
+Cameroon,Sub-Saharan Africa,Lower middle income,2023,400599.35,0.238888889,1879.34,1391.37,Attain WHO Coverage Goal,8233.62,6128.41
+"Congo, Dem. Rep.",Sub-Saharan Africa,Low income,2023,1463282.33,0.2,5983.78,4754.59,Attain WHO Coverage Goal,33025.23,26539.5
+"Congo, Rep.",Sub-Saharan Africa,Lower middle income,2023,78985.01,0.2,265.39,182.75,Attain WHO Coverage Goal,1501.66,1054.22
+Colombia,Latin America & Caribbean,Upper middle income,2023,370693.48,0.285555556,1680.86,1161.81,Attain WHO Coverage Goal,5980.46,4136.45
+Comoros,Sub-Saharan Africa,Lower middle income,2023,11738.3,0.2,87.56,67.82,Attain WHO Coverage Goal,444.31,343.8
+Cabo Verde,Sub-Saharan Africa,Lower middle income,2023,5275,0.2,16.85,15.24,Attain WHO Coverage Goal,82.27,73.82
+Costa Rica,Latin America & Caribbean,Upper middle income,2023,35364.95,0.658888889,212.06,192.52,Attain WHO Coverage Goal,328.07,298.94
+Cyprus,Europe & Central Asia,High income,2023,6766.39,0.2,7.22,9.37,Attain WHO Coverage Goal,36.71,47.1
+Czech Republic,Europe & Central Asia,High income,2023,55591.35,0.2,95.61,58.68,Attain WHO Coverage Goal,487.59,299.19
+Germany,Europe & Central Asia,High income,2023,368192.68,0.565555556,1373.56,704.8,Attain WHO Coverage Goal,2477.54,1265.64
+Djibouti,Middle East & North Africa,Lower middle income,2023,9958.3,0.2,21.4,16.97,Attain WHO Coverage Goal,118.03,94.64
+Denmark,Europe & Central Asia,High income,2023,30720.36,0.822222222,218.77,105.37,Attain WHO Coverage Goal,269.04,128.04
+Dominican Republic,Latin America & Caribbean,Upper middle income,2023,99913.94,0.262222222,546.33,449.05,Attain WHO Coverage Goal,2099.37,1723.13
+Algeria,Middle East & North Africa,Lower middle income,2023,439725.7,0.2,745.99,490.93,Attain WHO Coverage Goal,3758.31,2469.21
+Ecuador,Latin America & Caribbean,Upper middle income,2023,158170.1,0.223333333,715.43,504.31,Attain WHO Coverage Goal,3292.73,2331.25
+"Egypt, Arab Rep.",Middle East & North Africa,Lower middle income,2023,1139127.32,0.2,788.25,597.29,Attain WHO Coverage Goal,4056.79,3081.26
+Spain,Europe & Central Asia,High income,2023,231909.92,0.798888889,936.03,472.22,Attain WHO Coverage Goal,1197.52,604.07
+Estonia,Europe & Central Asia,High income,2023,7468.31,0.643333333,80.3,28.48,Attain WHO Coverage Goal,127.23,45.11
+Ethiopia,Sub-Saharan Africa,Low income,2023,1597034.44,0.783333333,20043.1,16172.42,Attain WHO Coverage Goal,26651.86,21586.25
+Finland,Europe & Central Asia,High income,2023,30773.08,0.2,25.97,11.52,Attain WHO Coverage Goal,133.04,59.35
+Fiji,East Asia & Pacific,Upper middle income,2023,8590.18,0.2,47.57,38.99,Attain WHO Coverage Goal,243.8,201.01
+France,Europe & Central Asia,High income,2023,393681.94,0.487777778,1348.59,646.19,Attain WHO Coverage Goal,2819.61,1350.71
+"Micronesia, Fed. Sts.",East Asia & Pacific,Lower middle income,2023,1174.41,0.448888889,15.18,12.6,Attain WHO Coverage Goal,28.61,22.3
+Gabon,Sub-Saharan Africa,Upper middle income,2023,27512.88,0.2,131.38,80.49,Attain WHO Coverage Goal,692.83,427.83
+United Kingdom,Europe & Central Asia,High income,2023,404873.23,0.658888889,1809.24,685.93,Attain WHO Coverage Goal,2795.15,1053.26
+Georgia,Europe & Central Asia,Upper middle income,2023,26882.34,0.293333333,78.8,52.59,Attain WHO Coverage Goal,272.49,181.47
+Ghana,Sub-Saharan Africa,Lower middle income,2023,398016.22,0.2,1907.85,1410.73,Attain WHO Coverage Goal,9845.23,7267.74
+Guinea,Sub-Saharan Africa,Low income,2023,205376.19,0.2,1258.52,1006.16,Attain WHO Coverage Goal,6910.8,5569.46
+"Gambia, The",Sub-Saharan Africa,Low income,2023,35996.03,0.433333333,629.7,569.92,Attain WHO Coverage Goal,1470.65,1328.43
+Guinea-Bissau,Sub-Saharan Africa,Low income,2023,29919.6,0.2,158.79,129.69,Attain WHO Coverage Goal,805.64,658.04
+Equatorial Guinea,Sub-Saharan Africa,Upper middle income,2023,18224.26,0.2,73.97,48.69,Attain WHO Coverage Goal,372.69,245.23
+Greece,Europe & Central Asia,High income,2023,48947.89,0.2,82.32,38.87,Attain WHO Coverage Goal,424.05,201.42
+Guatemala,Latin America & Caribbean,Upper middle income,2023,197913.5,0.316666667,1214.72,866.55,Attain WHO Coverage Goal,4183.43,3023.23
+Guyana,Latin America & Caribbean,Upper middle income,2023,7190.66,0.215555556,39.43,24.99,Attain WHO Coverage Goal,185.1,117.67
+Honduras,Latin America & Caribbean,Lower middle income,2023,100058.79,0.612222222,947.4,654.7,Attain WHO Coverage Goal,1654.22,1135.3
+Croatia,Europe & Central Asia,High income,2023,20264.56,0.2,37.72,19.08,Attain WHO Coverage Goal,192,97.1
+Haiti,Latin America & Caribbean,Lower middle income,2023,131896.1,0.2,306.14,252.1,Attain WHO Coverage Goal,1733.76,1443.27
+Hungary,Europe & Central Asia,High income,2023,45193.21,0.837777778,527.93,227.24,Attain WHO Coverage Goal,641.88,275.61
+Indonesia,East Asia & Pacific,Lower middle income,2023,2418269.03,0.238888889,11852.36,8382.15,Attain WHO Coverage Goal,52959.04,38026.3
+India,South Asia,Lower middle income,2023,12398766.34,0.2,44424.81,32881.31,Attain WHO Coverage Goal,210163.04,152239.68
+Ireland,Europe & Central Asia,High income,2023,35944.01,0.752222222,235.75,102.87,Attain WHO Coverage Goal,319.75,139.52
+"Iran, Islamic Rep.",Middle East & North Africa,Lower middle income,2023,660130.08,0.2,450.83,381.59,Attain WHO Coverage Goal,2217.67,1862.18
+Iraq,Middle East & North Africa,Upper middle income,2023,504299.51,0.2,206.34,160.33,Attain WHO Coverage Goal,1040.37,807.13
+Iceland,Europe & Central Asia,High income,2023,2278.61,0.9,11.68,7.34,Attain WHO Coverage Goal,13.26,8.35
+Israel,Middle East & North Africa,High income,2023,77770.46,0.627777778,245.69,171.26,Attain WHO Coverage Goal,401.92,281.35
+Italy,Europe & Central Asia,High income,2023,271620.9,0.2,308.37,118.79,Attain WHO Coverage Goal,1572.25,603.63
+Jamaica,Latin America & Caribbean,Upper middle income,2023,22910.15,0.215555556,95.31,69.52,Attain WHO Coverage Goal,465.58,341.52
+Jordan,Middle East & North Africa,Upper middle income,2023,112028.58,0.2,86.45,70.48,Attain WHO Coverage Goal,412.67,331.86
+Japan,East Asia & Pacific,High income,2023,540298.36,0.2,1229.23,457.11,Attain WHO Coverage Goal,6272.6,2331.73
+Kazakhstan,Europe & Central Asia,Upper middle income,2023,184621.44,0.2,473.47,245.33,Attain WHO Coverage Goal,2486.07,1309.24
+Kenya,Sub-Saharan Africa,Lower middle income,2023,735530.66,0.542222222,8240.86,5753.05,Attain WHO Coverage Goal,17385.61,12305.53
+Kyrgyz Republic,Europe & Central Asia,Lower middle income,2023,72009.98,0.2,198.53,139.08,Attain WHO Coverage Goal,1015.27,711.8
+Cambodia,East Asia & Pacific,Lower middle income,2023,176922.49,0.2,426.62,308.44,Attain WHO Coverage Goal,2156.24,1549.75
+Kiribati,East Asia & Pacific,Lower middle income,2023,1443.31,0.2,6.88,5.45,Attain WHO Coverage Goal,40.15,33.23
+"Korea, Rep.",East Asia & Pacific,High income,2023,223748.39,0.2,348.92,191.61,Attain WHO Coverage Goal,1781,980.41
+Kuwait,Middle East & North Africa,High income,2023,29424.48,0.2,16.94,12.71,Attain WHO Coverage Goal,82.89,61.42
+Lao PDR,East Asia & Pacific,Lower middle income,2023,80816.8,0.526666667,420.89,290.5,Attain WHO Coverage Goal,816.15,562.61
+Lebanon,Middle East & North Africa,Lower middle income,2023,49282.96,0.2,42.17,30.28,Attain WHO Coverage Goal,218.8,157.81
+Liberia,Sub-Saharan Africa,Low income,2023,72115.02,0.433333333,895.5,728.7,Attain WHO Coverage Goal,2365.62,1956.52
+Libya,Middle East & North Africa,Upper middle income,2023,65156.94,0.2,103.7,81.95,Attain WHO Coverage Goal,523.94,409.81
+St. Lucia,Latin America & Caribbean,Upper middle income,2023,1099.1,0.682222222,15.8,12.59,Attain WHO Coverage Goal,23.72,18.94
+Sri Lanka,South Asia,Lower middle income,2023,170294.71,0.557777778,933.19,578.65,Attain WHO Coverage Goal,1721.64,1068.2
+Lesotho,Sub-Saharan Africa,Lower middle income,2023,24164.96,0.2,142.9,103.35,Attain WHO Coverage Goal,825.98,613.52
+Lithuania,Europe & Central Asia,High income,2023,13839.85,0.713333333,157.13,76.22,Attain WHO Coverage Goal,224.49,108.93
+Luxembourg,Europe & Central Asia,High income,2023,3288.43,0.2,3.95,2.13,Attain WHO Coverage Goal,20.46,11.06
+Latvia,Europe & Central Asia,High income,2023,9182.03,0.526666667,69.19,37.69,Attain WHO Coverage Goal,133.59,73.2
+Morocco,Middle East & North Africa,Lower middle income,2023,336040.33,0.2,714.27,449.97,Attain WHO Coverage Goal,3743.06,2365.77
+Moldova,Europe & Central Asia,Upper middle income,2023,21939.63,0.472222222,122.36,75.09,Attain WHO Coverage Goal,265.63,164.22
+Madagascar,Sub-Saharan Africa,Low income,2023,378298.62,0.2,2289.81,1768.06,Attain WHO Coverage Goal,12123.78,9416.57
+Maldives,South Asia,Upper middle income,2023,3570.86,0.518888889,42.36,28.96,Attain WHO Coverage Goal,83.29,56.91
+Mexico,Latin America & Caribbean,Upper middle income,2023,1116967.15,0.207777778,2737.27,1578.49,Attain WHO Coverage Goal,13358.33,7687.39
+Marshall Islands,East Asia & Pacific,Upper middle income,2023,614.55,0.41,5.99,4.8,Attain WHO Coverage Goal,16.4,13.34
+North Macedonia,Europe & Central Asia,Upper middle income,2023,11125.31,0.363333333,25.66,17.57,Attain WHO Coverage Goal,70.44,46.94
+Mali,Sub-Saharan Africa,Low income,2023,344582.85,0.2,1435.48,1174.11,Attain WHO Coverage Goal,7489.14,6136.61
+Malta,Middle East & North Africa,High income,2023,2053.4,0.99,8.4,6.55,Attain WHO Coverage Goal,8.62,6.61
+Myanmar,East Asia & Pacific,Lower middle income,2023,494971.16,0.2,1754.01,1309.82,Attain WHO Coverage Goal,8953.69,6680.78
+Montenegro,Europe & Central Asia,Upper middle income,2023,3652.63,0.2,14.37,9.18,Attain WHO Coverage Goal,73.3,45.23
+Mongolia,East Asia & Pacific,Lower middle income,2023,34148.56,0.2,124.96,124.3,Attain WHO Coverage Goal,597.51,550.31
+Mozambique,Sub-Saharan Africa,Low income,2023,491075.74,0.2,2919.68,2398.6,Attain WHO Coverage Goal,15455.86,12801.11
+Mauritania,Sub-Saharan Africa,Lower middle income,2023,63515.13,0.2,262.33,201.18,Attain WHO Coverage Goal,1274.45,969.17
+Mauritius,Sub-Saharan Africa,Upper middle income,2023,7240.25,0.627777778,65.04,45.64,Attain WHO Coverage Goal,106.23,75.06
+Malawi,Sub-Saharan Africa,Low income,2023,292919.44,0.293333333,3506.5,2843.88,Attain WHO Coverage Goal,12961.66,10640.22
+Malaysia,East Asia & Pacific,Upper middle income,2023,241164.59,0.308888889,814.96,684.42,Attain WHO Coverage Goal,2665.39,2227.27
+Namibia,Sub-Saharan Africa,Upper middle income,2023,32419.47,0.2,189.24,134.36,Attain WHO Coverage Goal,1059.39,764.44
+Niger,Sub-Saharan Africa,Low income,2023,421086.19,0.2,533.91,458.01,Attain WHO Coverage Goal,2771.34,2382.5
+Nigeria,Sub-Saharan Africa,Lower middle income,2023,3331802.63,0.2,5810.03,4483.33,Attain WHO Coverage Goal,31933.94,24840.87
+Nicaragua,Latin America & Caribbean,Lower middle income,2023,64299.97,0.2,265.24,180.2,Attain WHO Coverage Goal,1412.05,963.21
+Netherlands,Europe & Central Asia,High income,2023,89008.82,0.713333333,359.91,154.88,Attain WHO Coverage Goal,518.95,225.95
+Norway,Europe & Central Asia,High income,2023,31362.19,0.93,269.19,107.16,Attain WHO Coverage Goal,294.44,116.35
+Nepal,South Asia,Lower middle income,2023,295971.3,0.2,1223.14,964.87,Attain WHO Coverage Goal,6239.54,4912.54
+New Zealand,East Asia & Pacific,High income,2023,31656.53,0.573333333,93.67,59.72,Attain WHO Coverage Goal,167.61,107
+Oman,Middle East & North Africa,High income,2023,34799.15,0.2,49.89,38.48,Attain WHO Coverage Goal,251.5,193.56
+Pakistan,South Asia,Lower middle income,2023,2597038.93,0.2,2217.53,1545.88,Attain WHO Coverage Goal,11383.29,7939.78
+Panama,Latin America & Caribbean,High income,2023,38185.6,0.2,102.98,73.75,Attain WHO Coverage Goal,529.55,380.14
+Peru,Latin America & Caribbean,Upper middle income,2023,270512.42,0.612222222,3870.66,2746.33,Attain WHO Coverage Goal,6681.09,4827.65
+Philippines,East Asia & Pacific,Lower middle income,2023,1140595.76,0.2,3211.92,2269.31,Attain WHO Coverage Goal,16792.78,12126.58
+Papua New Guinea,East Asia & Pacific,Lower middle income,2023,105505.09,0.2,489.59,383.71,Attain WHO Coverage Goal,2373.46,1818.7
+Poland,Europe & Central Asia,High income,2023,190742.92,0.2,457.08,282.56,Attain WHO Coverage Goal,2366.24,1474.91
+Portugal,Europe & Central Asia,High income,2023,45149.46,0.791111111,355.32,178.84,Attain WHO Coverage Goal,461.21,233
+Paraguay,Latin America & Caribbean,Upper middle income,2023,68067.09,0.332222222,681.88,507.12,Attain WHO Coverage Goal,2085.99,1551.87
+West Bank and Gaza,Middle East & North Africa,Lower middle income,2023,64439.73,0.2,120.55,93.04,Attain WHO Coverage Goal,583.67,446.6
+Qatar,Middle East & North Africa,High income,2023,12985.4,0.2,10.13,11.59,Attain WHO Coverage Goal,51.01,56.8
+Romania,Europe & Central Asia,High income,2023,99885.54,0.2,372.47,226.64,Attain WHO Coverage Goal,1873.03,1122.88
+Russian Federation,Europe & Central Asia,Upper middle income,2023,887377.57,0.2,1893.08,1001.64,Attain WHO Coverage Goal,9486.31,4994.08
+Rwanda,Sub-Saharan Africa,Low income,2023,175368.1,0.767777778,2884,2275.39,Attain WHO Coverage Goal,4206.64,3386.14
+Saudi Arabia,Middle East & North Africa,High income,2023,286922.95,0.2,216.34,157.33,Attain WHO Coverage Goal,1016.21,720.58
+Sudan,Sub-Saharan Africa,Low income,2023,601699.34,0.2,804.11,622.45,Attain WHO Coverage Goal,4300.13,3357.99
+Senegal,Sub-Saharan Africa,Lower middle income,2023,245391.02,0.363333333,2894.28,2319.77,Attain WHO Coverage Goal,7675.88,6088.39
+Singapore,East Asia & Pacific,High income,2023,22074.22,0.2,40.13,29.9,Attain WHO Coverage Goal,205.42,153.26
+Solomon Islands,East Asia & Pacific,Lower middle income,2023,8689.42,0.2,40.52,28.53,Attain WHO Coverage Goal,226.4,163.36
+Sierra Leone,Sub-Saharan Africa,Low income,2023,124804.21,0.2,317.69,259.13,Attain WHO Coverage Goal,1506.5,1227.05
+El Salvador,Latin America & Caribbean,Lower middle income,2023,56187.83,0.386666667,308.63,236.68,Attain WHO Coverage Goal,856.64,665.02
+Somalia,Sub-Saharan Africa,Low income,2023,274260.2,0.2,774.77,653.76,Attain WHO Coverage Goal,4018.51,3396.66
+Serbia,Europe & Central Asia,Upper middle income,2023,44230.85,0.2,136.74,80.92,Attain WHO Coverage Goal,685.44,398.68
+São Tomé and Príncipe,Sub-Saharan Africa,Lower middle income,2023,3099.87,0.2,18.69,17.82,Attain WHO Coverage Goal,112.21,107.71
+Suriname,Latin America & Caribbean,Upper middle income,2023,5152.06,0.215555556,22.44,15.72,Attain WHO Coverage Goal,106.05,74.86
+Slovak Republic,Europe & Central Asia,High income,2023,27965.57,0.2,81.87,42.05,Attain WHO Coverage Goal,414.09,210.28
+Slovenia,Europe & Central Asia,High income,2023,10641.64,0.588888889,36.49,24.75,Attain WHO Coverage Goal,62.93,42.36
+Sweden,Europe & Central Asia,High income,2023,58300.1,0.845555556,413.41,181.41,Attain WHO Coverage Goal,498.4,217.94
+Eswatini,Sub-Saharan Africa,Lower middle income,2023,15951.11,0.2,166.45,119.43,Attain WHO Coverage Goal,890.57,647.39
+Chad,Sub-Saharan Africa,Low income,2023,289409.07,0.2,534.42,445.64,Attain WHO Coverage Goal,2929.66,2466.99
+Togo,Sub-Saharan Africa,Low income,2023,120981,0.2,336.58,265.37,Attain WHO Coverage Goal,1818.27,1443.94
+Thailand,East Asia & Pacific,Upper middle income,2023,389577.16,0.2,1432.63,970.95,Attain WHO Coverage Goal,6966.94,4613.85
+Tajikistan,Europe & Central Asia,Lower middle income,2023,114527.08,0.2,169.51,127.19,Attain WHO Coverage Goal,891.51,673.95
+Turkmenistan,Europe & Central Asia,Upper middle income,2023,63916.96,0.99,771.26,520.59,Attain WHO Coverage Goal,781.6,525.19
+Timor-Leste,East Asia & Pacific,Lower middle income,2023,15884.16,0.2,40.11,30.62,Attain WHO Coverage Goal,207.21,158.19
+Tonga,East Asia & Pacific,Upper middle income,2023,1192.79,0.2,7.58,6.43,Attain WHO Coverage Goal,37.09,31.09
+Trinidad and Tobago,Latin America & Caribbean,High income,2023,9803.34,0.262222222,57.07,37.86,Attain WHO Coverage Goal,210.65,139.57
+Tunisia,Middle East & North Africa,Lower middle income,2023,94700.45,0.2,96.53,59.66,Attain WHO Coverage Goal,480.24,295.5
+Türkiye,Europe & Central Asia,Upper middle income,2023,670278.45,0.2,788.74,521.85,Attain WHO Coverage Goal,4010.81,2658.7
+Tuvalu,East Asia & Pacific,Upper middle income,2023,135.95,0.41,1.46,1.2,Attain WHO Coverage Goal,4.13,3.47
+Tanzania,Sub-Saharan Africa,Lower middle income,2023,883636.45,0.643333333,28244.05,20797.86,Attain WHO Coverage Goal,45411.36,33425.12
+Uganda,Sub-Saharan Africa,Low income,2023,724552.77,0.542222222,14347.53,11337.56,Attain WHO Coverage Goal,29493.19,23742.4
+Ukraine,Europe & Central Asia,Lower middle income,2023,246814.1,0.2,525.75,233.09,Attain WHO Coverage Goal,2611.22,1151.61
+Uruguay,Latin America & Caribbean,High income,2023,23161.67,0.332222222,74.37,50.07,Attain WHO Coverage Goal,229.29,154.74
+United States,North America,High income,2023,2030830.7,0.573333333,6397.91,3289.01,Attain WHO Coverage Goal,11345.33,5805.21
+Uzbekistan,Europe & Central Asia,Lower middle income,2023,317881.41,0.876666667,2556.43,1732.64,Attain WHO Coverage Goal,2982.06,2020.94
+Vietnam,East Asia & Pacific,Lower middle income,2023,712881.54,0.2,1045.49,747.23,Attain WHO Coverage Goal,5322.78,3799.73
+Vanuatu,East Asia & Pacific,Lower middle income,2023,3804.92,0.2,8.95,7.96,Attain WHO Coverage Goal,46.3,41.16
+Samoa,East Asia & Pacific,Lower middle income,2023,2281.13,0.2,4.71,3.77,Attain WHO Coverage Goal,24.47,19.64
+Kosovo,Europe & Central Asia,Upper middle income,2023,9042.04,0.2,10.58,6.46,Attain WHO Coverage Goal,52.64,31.72
+South Africa,Sub-Saharan Africa,Upper middle income,2023,609416.4,0.464444444,7471.46,4355.67,Attain WHO Coverage Goal,16532.16,9695.35
+Zambia,Sub-Saharan Africa,Low income,2023,283944.02,0.456666667,5823.06,4147.31,Attain WHO Coverage Goal,14154.28,10246.93
+Zimbabwe,Sub-Saharan Africa,Lower middle income,2023,233637.24,0.511111111,5024.99,3835.02,Attain WHO Coverage Goal,10801.52,8353.04
+Afghanistan,South Asia,Low income,2024,578119.69,0.3,1233.28,954.58,Attain WHO Coverage Goal,4315.15,3350.13
+Angola,Sub-Saharan Africa,Lower middle income,2024,565083.44,0.3,4326.53,3150.1,Attain WHO Coverage Goal,15440.47,11337.36
+Albania,Europe & Central Asia,Upper middle income,2024,15906.21,0.3,28.35,17.44,Attain WHO Coverage Goal,94.7,57.72
+United Arab Emirates,Middle East & North Africa,High income,2024,51642.72,0.3,122.82,94.16,Attain WHO Coverage Goal,397.78,301.01
+Argentina,Latin America & Caribbean,Upper middle income,2024,368477.07,0.653333333,3290.07,2191.86,Attain WHO Coverage Goal,5085.38,3355.05
+Armenia,Europe & Central Asia,Upper middle income,2024,20328.98,0.353333333,61.59,46.18,Attain WHO Coverage Goal,172.01,127.61
+Australia,East Asia & Pacific,High income,2024,165576.22,0.74,602.42,328.54,Attain WHO Coverage Goal,836.31,460.36
+Austria,Europe & Central Asia,High income,2024,41168.12,0.3,68.34,36.35,Attain WHO Coverage Goal,230.68,121.91
+Azerbaijan,Europe & Central Asia,Upper middle income,2024,82125.54,0.3,147.58,100.2,Attain WHO Coverage Goal,499.21,338.13
+Burundi,Sub-Saharan Africa,Low income,2024,195901.81,0.3,1895.48,1573.72,Attain WHO Coverage Goal,6903.81,5784.7
+Belgium,Europe & Central Asia,High income,2024,66305.73,0.766666667,357.69,165.62,Attain WHO Coverage Goal,475.8,219.83
+Benin,Sub-Saharan Africa,Lower middle income,2024,184631.25,0.3,517.8,379.86,Attain WHO Coverage Goal,1885.71,1393.46
+Burkina Faso,Sub-Saharan Africa,Low income,2024,339723.9,0.3,1086.8,896.04,Attain WHO Coverage Goal,3962.15,3297.79
+Bangladesh,South Asia,Lower middle income,2024,1514110.8,0.3,3726.68,2627.87,Attain WHO Coverage Goal,12448.34,8738.56
+Bulgaria,Europe & Central Asia,Upper middle income,2024,33685.9,0.32,159.83,90.28,Attain WHO Coverage Goal,504.53,279.64
+Bahrain,Middle East & North Africa,High income,2024,10313.06,0.3,14.82,9.82,Attain WHO Coverage Goal,49.81,32.98
+"Bahamas, The",Latin America & Caribbean,High income,2024,2679.37,0.3,12.77,9.37,Attain WHO Coverage Goal,43.2,31.73
+Bosnia and Herzegovina,Europe & Central Asia,Upper middle income,2024,16458.81,0.3,49.41,27.72,Attain WHO Coverage Goal,167.59,94.28
+Belarus,Europe & Central Asia,Upper middle income,2024,57758.52,0.3,162.5,75.99,Attain WHO Coverage Goal,545.99,253.23
+Belize,Latin America & Caribbean,Upper middle income,2024,3879.04,0.326666667,25.98,25.37,Attain WHO Coverage Goal,80.35,78.42
+Bolivia,Latin America & Caribbean,Lower middle income,2024,121463.62,0.54,1609.56,1113.87,Attain WHO Coverage Goal,3102.06,2385.81
+Brazil,Latin America & Caribbean,Upper middle income,2024,1456854.03,0.746666667,14072.98,8493.44,Attain WHO Coverage Goal,19322.74,11746.31
+Barbados,Latin America & Caribbean,High income,2024,1567.3,0.486666667,13.61,9.29,Attain WHO Coverage Goal,29.02,19.77
+Brunei Darussalam,East Asia & Pacific,High income,2024,3394.37,0.893333333,42.09,13.83,Attain WHO Coverage Goal,48.11,15.81
+Bhutan,South Asia,Lower middle income,2024,6368.85,0.886666667,63.6,42.98,Attain WHO Coverage Goal,69.65,46.73
+Botswana,Sub-Saharan Africa,Upper middle income,2024,27859.22,0.446666667,330.85,223.24,Attain WHO Coverage Goal,870.17,610.92
+Central African Republic,Sub-Saharan Africa,Low income,2024,80795.07,0.3,288.9,237.36,Attain WHO Coverage Goal,1010.23,832.21
+Canada,North America,High income,2024,196705.5,0.88,881.03,515.04,Attain WHO Coverage Goal,1022.66,595.15
+Switzerland,Europe & Central Asia,High income,2024,42257.45,0.773333333,126.74,69.87,Attain WHO Coverage Goal,167.56,92.47
+Chile,Latin America & Caribbean,High income,2024,125938.32,0.68,1077.45,751.19,Attain WHO Coverage Goal,1595.13,1105.63
+China,East Asia & Pacific,Upper middle income,2024,8222921.92,0.3,21391.54,13826.63,Attain WHO Coverage Goal,70937.48,45234.36
+Côte d’Ivoire,Sub-Saharan Africa,Lower middle income,2024,390963.5,0.573333333,4649.11,3642.96,Attain WHO Coverage Goal,8302.1,6475.49
+Cameroon,Sub-Saharan Africa,Lower middle income,2024,407111.95,0.333333333,2685.19,1988.76,Attain WHO Coverage Goal,8437.01,6282.78
+"Congo, Dem. Rep.",Sub-Saharan Africa,Low income,2024,1502374.61,0.3,9297.16,7389.84,Attain WHO Coverage Goal,34206.63,27498.68
+"Congo, Rep.",Sub-Saharan Africa,Lower middle income,2024,80399.11,0.3,408.95,281.82,Attain WHO Coverage Goal,1541.81,1083.27
+Colombia,Latin America & Caribbean,Upper middle income,2024,366084.09,0.373333333,2176.94,1505.98,Attain WHO Coverage Goal,5920.54,4097.39
+Comoros,Sub-Saharan Africa,Lower middle income,2024,11947.7,0.3,134.53,104.25,Attain WHO Coverage Goal,454.72,351.98
+Cabo Verde,Sub-Saharan Africa,Lower middle income,2024,5343.93,0.3,25.65,23.2,Attain WHO Coverage Goal,83.5,74.93
+Costa Rica,Latin America & Caribbean,Upper middle income,2024,35482.52,0.693333333,224.27,203.92,Attain WHO Coverage Goal,329.57,300.62
+Cyprus,Europe & Central Asia,High income,2024,6765.09,0.3,10.85,14.11,Attain WHO Coverage Goal,36.74,47.21
+Czech Republic,Europe & Central Asia,High income,2024,54479.28,0.3,140.83,86.54,Attain WHO Coverage Goal,478.53,293.87
+Germany,Europe & Central Asia,High income,2024,368546.12,0.613333333,1493.41,767.3,Attain WHO Coverage Goal,2483.15,1269.65
+Djibouti,Middle East & North Africa,Lower middle income,2024,10438.99,0.3,33.89,26.88,Attain WHO Coverage Goal,124.42,99.79
+Denmark,Europe & Central Asia,High income,2024,29677.07,0.833333333,214.44,103.49,Attain WHO Coverage Goal,260.09,123.94
+Dominican Republic,Latin America & Caribbean,Upper middle income,2024,100339.23,0.353333333,742.05,610.26,Attain WHO Coverage Goal,2114.74,1736.48
+Algeria,Middle East & North Africa,Lower middle income,2024,454604.71,0.3,1160.6,764.02,Attain WHO Coverage Goal,3896.02,2560.26
+Ecuador,Latin America & Caribbean,Upper middle income,2024,159107.48,0.32,1034.93,730.06,Attain WHO Coverage Goal,3322.46,2353.54
+"Egypt, Arab Rep.",Middle East & North Africa,Lower middle income,2024,1204061.79,0.3,1257.27,953.6,Attain WHO Coverage Goal,4308.19,3274.4
+Spain,Europe & Central Asia,High income,2024,224691.49,0.813333333,924.55,466.86,Attain WHO Coverage Goal,1161.41,586.19
+Estonia,Europe & Central Asia,High income,2024,7420.86,0.68,84.5,30,Attain WHO Coverage Goal,126.61,44.92
+Ethiopia,Sub-Saharan Africa,Low income,2024,1616224.47,0.8,20926.9,16892.63,Attain WHO Coverage Goal,27222.33,22054.81
+Finland,Europe & Central Asia,High income,2024,30756.35,0.3,38.98,17.32,Attain WHO Coverage Goal,133.09,59.43
+Fiji,East Asia & Pacific,Upper middle income,2024,8680.69,0.3,72.46,59.46,Attain WHO Coverage Goal,247.39,204.15
+France,Europe & Central Asia,High income,2024,394597.44,0.546666667,1516.85,727.28,Attain WHO Coverage Goal,2828.49,1355.55
+"Micronesia, Fed. Sts.",East Asia & Pacific,Lower middle income,2024,1166.87,0.513333333,17.3,14.38,Attain WHO Coverage Goal,28.52,22.26
+Gabon,Sub-Saharan Africa,Upper middle income,2024,28513.84,0.3,205.53,126.05,Attain WHO Coverage Goal,722.21,446.33
+United Kingdom,Europe & Central Asia,High income,2024,407984.89,0.693333333,1920.66,729.34,Attain WHO Coverage Goal,2819.22,1063.55
+Georgia,Europe & Central Asia,Upper middle income,2024,27646.32,0.38,105.35,70.35,Attain WHO Coverage Goal,281.07,187.28
+Ghana,Sub-Saharan Africa,Lower middle income,2024,405191.06,0.3,2941.2,2176.96,Attain WHO Coverage Goal,10115.9,7474.32
+Guinea,Sub-Saharan Africa,Low income,2024,208155.92,0.3,1927.37,1541.46,Attain WHO Coverage Goal,7062.25,5694.54
+"Gambia, The",Sub-Saharan Africa,Low income,2024,36909.2,0.5,753.41,682.37,Attain WHO Coverage Goal,1524.19,1377.74
+Guinea-Bissau,Sub-Saharan Africa,Low income,2024,30432.63,0.3,244.82,200.05,Attain WHO Coverage Goal,828.53,677.05
+Equatorial Guinea,Sub-Saharan Africa,Upper middle income,2024,18619.64,0.3,114.26,75.21,Attain WHO Coverage Goal,384.05,252.69
+Greece,Europe & Central Asia,High income,2024,47114.87,0.3,119.09,56.29,Attain WHO Coverage Goal,408.68,194.25
+Guatemala,Latin America & Caribbean,Upper middle income,2024,198883.82,0.4,1548.98,1105.62,Attain WHO Coverage Goal,4220.3,3050.99
+Guyana,Latin America & Caribbean,Upper middle income,2024,7299.58,0.313333333,58.42,37.06,Attain WHO Coverage Goal,188.49,119.89
+Honduras,Latin America & Caribbean,Lower middle income,2024,98887.45,0.653333333,1002.81,692.96,Attain WHO Coverage Goal,1639.65,1125.32
+Croatia,Europe & Central Asia,High income,2024,19908.53,0.3,55.78,28.26,Attain WHO Coverage Goal,189.19,95.76
+Haiti,Latin America & Caribbean,Lower middle income,2024,132226.58,0.3,464.78,382.93,Attain WHO Coverage Goal,1751.29,1458.29
+Hungary,Europe & Central Asia,High income,2024,44031.9,0.846666667,520.9,224.53,Attain WHO Coverage Goal,626.38,269.2
+Indonesia,East Asia & Pacific,Lower middle income,2024,2459776.6,0.333333333,16896.25,11959.27,Attain WHO Coverage Goal,54057.08,38836.25
+India,South Asia,Lower middle income,2024,12112699.61,0.3,65595.76,48584.78,Attain WHO Coverage Goal,206731.99,149841.47
+Ireland,Europe & Central Asia,High income,2024,35852.02,0.773333333,241.96,105.73,Attain WHO Coverage Goal,319.11,139.38
+"Iran, Islamic Rep.",Middle East & North Africa,Lower middle income,2024,669834.53,0.3,689.59,583.99,Attain WHO Coverage Goal,2259.21,1897.88
+Iraq,Middle East & North Africa,Upper middle income,2024,520002.74,0.3,320.27,248.95,Attain WHO Coverage Goal,1076.21,835.17
+Iceland,Europe & Central Asia,High income,2024,2279.37,0.9,11.67,7.34,Attain WHO Coverage Goal,13.24,8.35
+Israel,Middle East & North Africa,High income,2024,79615.54,0.666666667,267.54,186.7,Attain WHO Coverage Goal,412.03,288.67
+Italy,Europe & Central Asia,High income,2024,267613.62,0.3,456.11,175.93,Attain WHO Coverage Goal,1549.99,595.54
+Jamaica,Latin America & Caribbean,Upper middle income,2024,23164.96,0.313333333,140.6,102.61,Attain WHO Coverage Goal,471.93,346.3
+Jordan,Middle East & North Africa,Upper middle income,2024,110219.61,0.3,128.04,104.44,Attain WHO Coverage Goal,407.25,327.65
+Japan,East Asia & Pacific,High income,2024,538367.73,0.3,1838.59,684.46,Attain WHO Coverage Goal,6253.23,2326.07
+Kazakhstan,Europe & Central Asia,Upper middle income,2024,191229.02,0.3,738.28,382.81,Attain WHO Coverage Goal,2583.09,1360.94
+Kenya,Sub-Saharan Africa,Lower middle income,2024,736557.98,0.593333333,9102.05,6356.88,Attain WHO Coverage Goal,17518.07,12402.62
+Kyrgyz Republic,Europe & Central Asia,Lower middle income,2024,76050.23,0.3,315.78,221.37,Attain WHO Coverage Goal,1076,754.76
+Cambodia,East Asia & Pacific,Lower middle income,2024,178463.49,0.3,650.1,470.38,Attain WHO Coverage Goal,2189.28,1574.52
+Kiribati,East Asia & Pacific,Lower middle income,2024,1435.14,0.3,10.31,8.18,Attain WHO Coverage Goal,40.05,33.17
+"Korea, Rep.",East Asia & Pacific,High income,2024,225783.62,0.3,528.91,290.87,Attain WHO Coverage Goal,1799.18,991.27
+Kuwait,Middle East & North Africa,High income,2024,29955.7,0.3,25.9,19.43,Attain WHO Coverage Goal,84.48,62.62
+Lao PDR,East Asia & Pacific,Lower middle income,2024,80417.46,0.58,464.53,320.95,Attain WHO Coverage Goal,817.16,563.72
+Lebanon,Middle East & North Africa,Lower middle income,2024,48171.84,0.3,62.01,44.55,Attain WHO Coverage Goal,214.36,154.67
+Liberia,Sub-Saharan Africa,Low income,2024,72713.97,0.5,1052.89,857.33,Attain WHO Coverage Goal,2407.42,1992
+Libya,Middle East & North Africa,Upper middle income,2024,65877.56,0.3,157.9,124.9,Attain WHO Coverage Goal,531.49,416.01
+St. Lucia,Latin America & Caribbean,Upper middle income,2024,1105.25,0.713333333,16.66,13.29,Attain WHO Coverage Goal,23.9,19.1
+Sri Lanka,South Asia,Lower middle income,2024,168206.27,0.606666667,1005.2,623.62,Attain WHO Coverage Goal,1703.91,1057.54
+Lesotho,Sub-Saharan Africa,Lower middle income,2024,24326.8,0.3,217.16,157.14,Attain WHO Coverage Goal,838.36,623.15
+Lithuania,Europe & Central Asia,High income,2024,14851.65,0.74,175.48,85.19,Attain WHO Coverage Goal,241.56,117.28
+Luxembourg,Europe & Central Asia,High income,2024,3344.87,0.3,6.03,3.24,Attain WHO Coverage Goal,20.81,11.25
+Latvia,Europe & Central Asia,High income,2024,8719.32,0.58,72.65,39.63,Attain WHO Coverage Goal,127.33,69.85
+Morocco,Middle East & North Africa,Lower middle income,2024,343547.75,0.3,1099.95,693.11,Attain WHO Coverage Goal,3839.13,2426.82
+Moldova,Europe & Central Asia,Upper middle income,2024,22010.53,0.533333333,138.88,85.35,Attain WHO Coverage Goal,266.86,165.15
+Madagascar,Sub-Saharan Africa,Low income,2024,382814.28,0.3,3500.52,2704.16,Attain WHO Coverage Goal,12345.98,9592.57
+Maldives,South Asia,Upper middle income,2024,3631.3,0.573333333,47.7,32.62,Attain WHO Coverage Goal,84.87,58
+Mexico,Latin America & Caribbean,Upper middle income,2024,1119249.29,0.306666667,4062.28,2344.11,Attain WHO Coverage Goal,13422.48,7728.01
+Marshall Islands,East Asia & Pacific,Upper middle income,2024,610.36,0.48,7.01,5.61,Attain WHO Coverage Goal,16.35,13.31
+North Macedonia,Europe & Central Asia,Upper middle income,2024,11244.21,0.44,31.48,21.58,Attain WHO Coverage Goal,71.33,47.58
+Mali,Sub-Saharan Africa,Low income,2024,350411.46,0.3,2209.3,1807.48,Attain WHO Coverage Goal,7683.63,6297.47
+Malta,Middle East & North Africa,High income,2024,2075.12,0.99,8.51,6.64,Attain WHO Coverage Goal,8.73,6.7
+Myanmar,East Asia & Pacific,Lower middle income,2024,487256.32,0.3,2594.31,1939.23,Attain WHO Coverage Goal,8818.74,6584.77
+Montenegro,Europe & Central Asia,Upper middle income,2024,3589.28,0.3,21.22,13.58,Attain WHO Coverage Goal,72.15,44.58
+Mongolia,East Asia & Pacific,Lower middle income,2024,35888.07,0.3,197.99,197.36,Attain WHO Coverage Goal,630.89,582.09
+Mozambique,Sub-Saharan Africa,Low income,2024,498648.61,0.3,4490.89,3691.16,Attain WHO Coverage Goal,15845.31,13128.9
+Mauritania,Sub-Saharan Africa,Lower middle income,2024,65146.32,0.3,406.36,311.84,Attain WHO Coverage Goal,1314.43,1000
+Mauritius,Sub-Saharan Africa,Upper middle income,2024,6998.18,0.666666667,66.97,47.07,Attain WHO Coverage Goal,102.93,72.81
+Malawi,Sub-Saharan Africa,Low income,2024,293663.27,0.38,4594.96,3728.13,Attain WHO Coverage Goal,13102.39,10758.84
+Malaysia,East Asia & Pacific,Upper middle income,2024,243024.78,0.393333333,1048.37,881.59,Attain WHO Coverage Goal,2690.98,2250.73
+Namibia,Sub-Saharan Africa,Upper middle income,2024,33095.26,0.3,292.48,207.86,Attain WHO Coverage Goal,1090.84,787.91
+Niger,Sub-Saharan Africa,Low income,2024,432959.11,0.3,834.63,716.24,Attain WHO Coverage Goal,2886.55,2482.22
+Nigeria,Sub-Saharan Africa,Lower middle income,2024,3405120.04,0.3,8978.64,6932.26,Attain WHO Coverage Goal,32913.6,25617.8
+Nicaragua,Latin America & Caribbean,Lower middle income,2024,64501.9,0.3,400.82,272.39,Attain WHO Coverage Goal,1421.55,969.91
+Netherlands,Europe & Central Asia,High income,2024,88397.92,0.74,371.24,160.07,Attain WHO Coverage Goal,515.77,224.84
+Norway,Europe & Central Asia,High income,2024,31071.22,0.93,267.17,106.61,Attain WHO Coverage Goal,292.14,115.62
+Nepal,South Asia,Lower middle income,2024,291662.61,0.3,1823.28,1439.38,Attain WHO Coverage Goal,6188.74,4874.88
+New Zealand,East Asia & Pacific,High income,2024,31517.13,0.62,101.06,64.51,Attain WHO Coverage Goal,167.21,106.86
+Oman,Middle East & North Africa,High income,2024,36264.74,0.3,78.16,60.31,Attain WHO Coverage Goal,262.58,202.16
+Pakistan,South Asia,Lower middle income,2024,2631167.28,0.3,3384.27,2360.06,Attain WHO Coverage Goal,11578.08,8077.94
+Panama,Latin America & Caribbean,High income,2024,38521.1,0.3,156.26,111.98,Attain WHO Coverage Goal,535.41,384.5
+Peru,Latin America & Caribbean,Upper middle income,2024,263638.76,0.653333333,4041.32,2870.1,Attain WHO Coverage Goal,6532.04,4722.77
+Philippines,East Asia & Pacific,Lower middle income,2024,1154618.95,0.3,4894.04,3463.15,Attain WHO Coverage Goal,17041.82,12316.95
+Papua New Guinea,East Asia & Pacific,Lower middle income,2024,106095.89,0.3,742.74,582.87,Attain WHO Coverage Goal,2399.72,1841.24
+Poland,Europe & Central Asia,High income,2024,187182.5,0.3,674.14,417.06,Attain WHO Coverage Goal,2325.43,1450.19
+Portugal,Europe & Central Asia,High income,2024,43975.82,0.806666667,353.52,178.12,Attain WHO Coverage Goal,449.78,227.38
+Paraguay,Latin America & Caribbean,Upper middle income,2024,67895.99,0.413333333,849.17,632.22,Attain WHO Coverage Goal,2086.64,1553.5
+West Bank and Gaza,Middle East & North Africa,Lower middle income,2024,66124.3,0.3,186.37,143.92,Attain WHO Coverage Goal,601.05,460.05
+Qatar,Middle East & North Africa,High income,2024,13369.49,0.3,15.66,17.92,Attain WHO Coverage Goal,52.56,58.57
+Romania,Europe & Central Asia,High income,2024,96178.37,0.3,539.04,328.43,Attain WHO Coverage Goal,1806.67,1084.04
+Russian Federation,Europe & Central Asia,Upper middle income,2024,910977.43,0.3,2921.47,1546.94,Attain WHO Coverage Goal,9757.38,5139.67
+Rwanda,Sub-Saharan Africa,Low income,2024,175546.4,0.786666667,2991.73,2362.05,Attain WHO Coverage Goal,4252.41,3424.31
+Saudi Arabia,Middle East & North Africa,High income,2024,293734.27,0.3,333.44,242.64,Attain WHO Coverage Goal,1043.55,740.4
+Sudan,Sub-Saharan Africa,Low income,2024,608797.22,0.3,1227.39,950.51,Attain WHO Coverage Goal,4377.96,3420.27
+Senegal,Sub-Saharan Africa,Lower middle income,2024,251006.74,0.44,3616.13,2899.73,Attain WHO Coverage Goal,7912.9,6278.81
+Singapore,East Asia & Pacific,High income,2024,21307.54,0.3,58.22,43.41,Attain WHO Coverage Goal,198.55,148.2
+Solomon Islands,East Asia & Pacific,Lower middle income,2024,8999.03,0.3,63.23,44.56,Attain WHO Coverage Goal,235.27,169.84
+Sierra Leone,Sub-Saharan Africa,Low income,2024,124735.95,0.3,482.03,393.3,Attain WHO Coverage Goal,1527.3,1244.39
+El Salvador,Latin America & Caribbean,Lower middle income,2024,55803.07,0.46,366.34,281.17,Attain WHO Coverage Goal,853.94,663.29
+Somalia,Sub-Saharan Africa,Low income,2024,277884.03,0.3,1188.32,1002.94,Attain WHO Coverage Goal,4109.79,3474.57
+Serbia,Europe & Central Asia,Upper middle income,2024,42991.32,0.3,199.71,118.33,Attain WHO Coverage Goal,667.19,388.38
+São Tomé and Príncipe,Sub-Saharan Africa,Lower middle income,2024,3117.06,0.3,28.42,27.1,Attain WHO Coverage Goal,113.58,109.03
+Suriname,Latin America & Caribbean,Upper middle income,2024,5176.92,0.313333333,32.87,23.03,Attain WHO Coverage Goal,106.83,75.42
+Slovak Republic,Europe & Central Asia,High income,2024,27835.93,0.3,122.43,62.97,Attain WHO Coverage Goal,412.67,209.75
+Slovenia,Europe & Central Asia,High income,2024,10713.6,0.633333333,39.56,26.88,Attain WHO Coverage Goal,63.43,42.74
+Sweden,Europe & Central Asia,High income,2024,58120.34,0.853333333,416.36,183.09,Attain WHO Coverage Goal,497.2,217.7
+Eswatini,Sub-Saharan Africa,Lower middle income,2024,15679.97,0.3,247.73,177.88,Attain WHO Coverage Goal,882.84,642.09
+Chad,Sub-Saharan Africa,Low income,2024,294941.32,0.3,823.89,687.23,Attain WHO Coverage Goal,3013.83,2538.69
+Togo,Sub-Saharan Africa,Low income,2024,122250.39,0.3,515.45,406.76,Attain WHO Coverage Goal,1854.51,1473.81
+Thailand,East Asia & Pacific,Upper middle income,2024,383879,0.3,2123.35,1440.14,Attain WHO Coverage Goal,6881.67,4560.26
+Tajikistan,Europe & Central Asia,Lower middle income,2024,119774.04,0.3,267.36,200.8,Attain WHO Coverage Goal,936.45,708.41
+Turkmenistan,Europe & Central Asia,Upper middle income,2024,67867.33,0.99,821.94,555.18,Attain WHO Coverage Goal,832.57,559.73
+Timor-Leste,East Asia & Pacific,Lower middle income,2024,15703.37,0.3,59.97,45.82,Attain WHO Coverage Goal,206.2,157.53
+Tonga,East Asia & Pacific,Upper middle income,2024,1210.72,0.3,11.59,9.84,Attain WHO Coverage Goal,37.78,31.69
+Trinidad and Tobago,Latin America & Caribbean,High income,2024,9772.94,0.353333333,76.96,51.06,Attain WHO Coverage Goal,210.64,139.58
+Tunisia,Middle East & North Africa,Lower middle income,2024,98797.79,0.3,151.48,93.66,Attain WHO Coverage Goal,502.15,309.06
+Türkiye,Europe & Central Asia,Upper middle income,2024,665460.61,0.3,1178.86,780.62,Attain WHO Coverage Goal,3994.28,2649.05
+Tuvalu,East Asia & Pacific,Upper middle income,2024,137.85,0.48,1.75,1.43,Attain WHO Coverage Goal,4.21,3.53
+Tanzania,Sub-Saharan Africa,Lower middle income,2024,897668.79,0.68,30562.05,22513.4,Attain WHO Coverage Goal,46473.07,34217.28
+Uganda,Sub-Saharan Africa,Low income,2024,735886.96,0.593333333,16106.95,12735.63,Attain WHO Coverage Goal,30236.39,24351.55
+Ukraine,Europe & Central Asia,Lower middle income,2024,247766.08,0.3,792.97,351.64,Attain WHO Coverage Goal,2625.23,1158.06
+Uruguay,Latin America & Caribbean,High income,2024,23277.92,0.413333333,93.2,62.81,Attain WHO Coverage Goal,230.86,155.91
+United States,North America,High income,2024,2000374.24,0.62,6825.13,3512.69,Attain WHO Coverage Goal,11188.25,5729.35
+Uzbekistan,Europe & Central Asia,Lower middle income,2024,323921.87,0.88,2626.68,1781.17,Attain WHO Coverage Goal,3050.85,2068.33
+Vietnam,East Asia & Pacific,Lower middle income,2024,718805.39,0.3,1585.91,1134.41,Attain WHO Coverage Goal,5378.65,3841.82
+Vanuatu,East Asia & Pacific,Lower middle income,2024,3804.55,0.3,13.44,11.95,Attain WHO Coverage Goal,46.32,41.17
+Samoa,East Asia & Pacific,Lower middle income,2024,2294.79,0.3,7.11,5.69,Attain WHO Coverage Goal,24.63,19.77
+Kosovo,Europe & Central Asia,Upper middle income,2024,8785.58,0.3,15.46,9.44,Attain WHO Coverage Goal,51.24,30.89
+South Africa,Sub-Saharan Africa,Upper middle income,2024,612329.54,0.526666667,8588.84,5007.92,Attain WHO Coverage Goal,16760.12,9831.03
+Zambia,Sub-Saharan Africa,Low income,2024,289187.04,0.52,6806.32,4849.95,Attain WHO Coverage Goal,14526.24,10520.7
+Zimbabwe,Sub-Saharan Africa,Lower middle income,2024,240841.47,0.566666667,5788.51,4420.32,Attain WHO Coverage Goal,11234.69,8694.31
+Afghanistan,South Asia,Low income,2025,578806.89,0.4,1658.64,1284.18,Attain WHO Coverage Goal,4350.73,3378.59
+Angola,Sub-Saharan Africa,Lower middle income,2025,574550.4,0.4,5941.41,4328.49,Attain WHO Coverage Goal,15908.33,11688.17
+Albania,Europe & Central Asia,Upper middle income,2025,16255.5,0.4,38.71,23.82,Attain WHO Coverage Goal,96.94,59.11
+United Arab Emirates,Middle East & North Africa,High income,2025,52682.85,0.4,167.31,128.29,Attain WHO Coverage Goal,406.5,307.72
+Argentina,Latin America & Caribbean,Upper middle income,2025,370341.84,0.694444444,3521.44,2347.98,Attain WHO Coverage Goal,5119.77,3379.91
+Armenia,Europe & Central Asia,Upper middle income,2025,20510.34,0.444444444,78.4,58.82,Attain WHO Coverage Goal,174.01,129.16
+Australia,East Asia & Pacific,High income,2025,166770.05,0.766666667,629.42,343.82,Attain WHO Coverage Goal,843.26,464.7
+Austria,Europe & Central Asia,High income,2025,41363.92,0.4,91.67,48.8,Attain WHO Coverage Goal,231.97,122.67
+Azerbaijan,Europe & Central Asia,Upper middle income,2025,84935.72,0.4,204.35,138.8,Attain WHO Coverage Goal,518.35,351.2
+Burundi,Sub-Saharan Africa,Low income,2025,200400.63,0.4,2613.12,2170.22,Attain WHO Coverage Goal,7145.45,5989.45
+Belgium,Europe & Central Asia,High income,2025,66128.33,0.788888889,367.68,170.47,Attain WHO Coverage Goal,475.16,219.74
+Benin,Sub-Saharan Africa,Lower middle income,2025,188168.48,0.4,707.72,519.31,Attain WHO Coverage Goal,1933.1,1428.89
+Burkina Faso,Sub-Saharan Africa,Low income,2025,344672.9,0.4,1483.28,1223.22,Attain WHO Coverage Goal,4059.08,3379.58
+Bangladesh,South Asia,Lower middle income,2025,1503413.79,0.4,4957.2,3497.03,Attain WHO Coverage Goal,12417.71,8720.06
+Bulgaria,Europe & Central Asia,Upper middle income,2025,32649.19,0.416666667,202.05,114.3,Attain WHO Coverage Goal,489.64,271.66
+Bahrain,Middle East & North Africa,High income,2025,10547.83,0.4,20.22,13.41,Attain WHO Coverage Goal,50.99,33.77
+"Bahamas, The",Latin America & Caribbean,High income,2025,2559.4,0.4,16.3,11.96,Attain WHO Coverage Goal,41.38,30.39
+Bosnia and Herzegovina,Europe & Central Asia,Upper middle income,2025,15899.88,0.4,63.7,35.79,Attain WHO Coverage Goal,162.05,91.26
+Belarus,Europe & Central Asia,Upper middle income,2025,59715.51,0.4,224.43,105.03,Attain WHO Coverage Goal,565.38,262.38
+Belize,Latin America & Caribbean,Upper middle income,2025,3903.76,0.422222222,33.92,33.12,Attain WHO Coverage Goal,81.1,79.16
+Bolivia,Latin America & Caribbean,Lower middle income,2025,121253.77,0.6,1794.12,1244.77,Attain WHO Coverage Goal,3110.05,2394.77
+Brazil,Latin America & Caribbean,Upper middle income,2025,1451767.08,0.772222222,14551.91,8788.35,Attain WHO Coverage Goal,19312.11,11745.28
+Barbados,Latin America & Caribbean,High income,2025,1526.39,0.555555556,15.18,10.35,Attain WHO Coverage Goal,28.32,19.3
+Brunei Darussalam,East Asia & Pacific,High income,2025,3468.34,0.894444444,43.09,14.16,Attain WHO Coverage Goal,49.18,16.17
+Bhutan,South Asia,Lower middle income,2025,6273.41,0.888888889,63.07,42.64,Attain WHO Coverage Goal,68.9,46.24
+Botswana,Sub-Saharan Africa,Upper middle income,2025,28162.39,0.522222222,393.35,265.66,Attain WHO Coverage Goal,883.96,621.01
+Central African Republic,Sub-Saharan Africa,Low income,2025,80811.85,0.4,388.79,319.53,Attain WHO Coverage Goal,1020.33,840.8
+Canada,North America,High income,2025,195353.45,0.883333333,879.21,514.6,Attain WHO Coverage Goal,1016.5,592.11
+Switzerland,Europe & Central Asia,High income,2025,42630.27,0.794444444,131.57,72.62,Attain WHO Coverage Goal,169.25,93.46
+Chile,Latin America & Caribbean,High income,2025,125600,0.716666667,1135.11,791.96,Attain WHO Coverage Goal,1593.94,1105.42
+China,East Asia & Pacific,Upper middle income,2025,8258276.92,0.4,28725.52,18576.69,Attain WHO Coverage Goal,71432.98,45573.2
+Côte d’Ivoire,Sub-Saharan Africa,Lower middle income,2025,398533.63,0.627777778,5234.89,4103.65,Attain WHO Coverage Goal,8538.96,6663.28
+Cameroon,Sub-Saharan Africa,Lower middle income,2025,413061.23,0.427777778,3522.46,2609.9,Attain WHO Coverage Goal,8632.9,6431.91
+"Congo, Dem. Rep.",Sub-Saharan Africa,Low income,2025,1539084.92,0.4,12808.1,10183.95,Attain WHO Coverage Goal,35349.71,28428.35
+"Congo, Rep.",Sub-Saharan Africa,Lower middle income,2025,81596.13,0.4,557.94,384.8,Attain WHO Coverage Goal,1577.91,1109.54
+Colombia,Latin America & Caribbean,Upper middle income,2025,363026.86,0.461111111,2674.13,1851.4,Attain WHO Coverage Goal,5885.72,4075.7
+Comoros,Sub-Saharan Africa,Lower middle income,2025,12131.86,0.4,183.26,142.09,Attain WHO Coverage Goal,464.3,359.53
+Cabo Verde,Sub-Saharan Africa,Lower middle income,2025,5400.59,0.4,34.63,31.33,Attain WHO Coverage Goal,84.56,75.91
+Costa Rica,Latin America & Caribbean,Upper middle income,2025,35524.17,0.727777778,236.06,214.95,Attain WHO Coverage Goal,330.38,301.67
+Cyprus,Europe & Central Asia,High income,2025,6737.91,0.4,14.43,18.8,Attain WHO Coverage Goal,36.64,47.15
+Czech Republic,Europe & Central Asia,High income,2025,53647.55,0.4,185.14,113.91,Attain WHO Coverage Goal,471.64,289.89
+Germany,Europe & Central Asia,High income,2025,370677.63,0.661111111,1620.99,833.87,Attain WHO Coverage Goal,2499.99,1279.45
+Djibouti,Middle East & North Africa,Lower middle income,2025,10800.68,0.4,47.08,37.37,Attain WHO Coverage Goal,129.5,103.9
+Denmark,Europe & Central Asia,High income,2025,28867.32,0.844444444,211.85,102.42,Attain WHO Coverage Goal,253.48,120.96
+Dominican Republic,Latin America & Caribbean,Upper middle income,2025,100739.21,0.444444444,940.41,773.8,Attain WHO Coverage Goal,2129.64,1749.47
+Algeria,Middle East & North Africa,Lower middle income,2025,467849.02,0.4,1597.96,1052.24,Attain WHO Coverage Goal,4021.75,2643.52
+Ecuador,Latin America & Caribbean,Upper middle income,2025,160085.42,0.416666667,1360.71,960.54,Attain WHO Coverage Goal,3353.73,2376.95
+"Egypt, Arab Rep.",Middle East & North Africa,Lower middle income,2025,1255583.61,0.4,1758.05,1334.66,Attain WHO Coverage Goal,4513.92,3433.16
+Spain,Europe & Central Asia,High income,2025,217539.64,0.827777778,912.24,461.03,Attain WHO Coverage Goal,1125.66,568.48
+Estonia,Europe & Central Asia,High income,2025,7337.49,0.716666667,88.3,31.38,Attain WHO Coverage Goal,125.49,44.56
+Ethiopia,Sub-Saharan Africa,Low income,2025,1636751.07,0.816666667,21835.24,17633.07,Attain WHO Coverage Goal,27805.18,22534.08
+Finland,Europe & Central Asia,High income,2025,30555.91,0.4,51.66,22.98,Attain WHO Coverage Goal,132.24,59.11
+Fiji,East Asia & Pacific,Upper middle income,2025,8762.44,0.4,97.97,80.48,Attain WHO Coverage Goal,250.79,207.16
+France,Europe & Central Asia,High income,2025,393728.9,0.605555556,1679.02,805.51,Attain WHO Coverage Goal,2825.51,1354.73
+"Micronesia, Fed. Sts.",East Asia & Pacific,Lower middle income,2025,1163.24,0.577777778,19.49,16.21,Attain WHO Coverage Goal,28.53,22.3
+Gabon,Sub-Saharan Africa,Upper middle income,2025,29466.21,0.4,284.99,174.95,Attain WHO Coverage Goal,750.85,464.43
+United Kingdom,Europe & Central Asia,High income,2025,408849.47,0.727777778,2022.24,769.08,Attain WHO Coverage Goal,2827.39,1067.91
+Georgia,Europe & Central Asia,Upper middle income,2025,28141.67,0.466666667,132.11,88.28,Attain WHO Coverage Goal,286.92,191.27
+Ghana,Sub-Saharan Africa,Lower middle income,2025,411335.35,0.4,4018.93,2977.53,Attain WHO Coverage Goal,10367.81,7667.67
+Guinea,Sub-Saharan Africa,Low income,2025,211176.76,0.4,2624.8,2100.02,Attain WHO Coverage Goal,7221.93,5826.59
+"Gambia, The",Sub-Saharan Africa,Low income,2025,37775.71,0.566666667,883.67,800.9,Attain WHO Coverage Goal,1577.33,1426.8
+Guinea-Bissau,Sub-Saharan Africa,Low income,2025,30868.45,0.4,334.65,273.58,Attain WHO Coverage Goal,850.1,695
+Equatorial Guinea,Sub-Saharan Africa,Upper middle income,2025,18974.69,0.4,156.42,102.95,Attain WHO Coverage Goal,394.68,259.66
+Greece,Europe & Central Asia,High income,2025,45377.45,0.4,153.2,72.49,Attain WHO Coverage Goal,394.09,187.44
+Guatemala,Latin America & Caribbean,Upper middle income,2025,199996.49,0.483333333,1890.62,1350.2,Attain WHO Coverage Goal,4260.57,3081.25
+Guyana,Latin America & Caribbean,Upper middle income,2025,7399.52,0.411111111,78.02,49.54,Attain WHO Coverage Goal,191.73,122.03
+Honduras,Latin America & Caribbean,Lower middle income,2025,98078.47,0.694444444,1061,733.16,Attain WHO Coverage Goal,1631.27,1119.59
+Croatia,Europe & Central Asia,High income,2025,19590.65,0.4,73.2,37.13,Attain WHO Coverage Goal,186.14,94.3
+Haiti,Latin America & Caribbean,Lower middle income,2025,132420.15,0.4,626.57,516.47,Attain WHO Coverage Goal,1767.73,1472.41
+Hungary,Europe & Central Asia,High income,2025,43216.79,0.855555556,517.45,223.34,Attain WHO Coverage Goal,615.55,264.79
+Indonesia,East Asia & Pacific,Lower middle income,2025,2487367.84,0.427777778,22017.7,15596.98,Attain WHO Coverage Goal,54854.68,39432.35
+India,South Asia,Lower middle income,2025,11870941.43,0.4,86337.77,63990.15,Attain WHO Coverage Goal,204017.41,147962.56
+Ireland,Europe & Central Asia,High income,2025,35477.73,0.794444444,246.38,107.81,Attain WHO Coverage Goal,316.25,138.27
+"Iran, Islamic Rep.",Middle East & North Africa,Lower middle income,2025,681632.11,0.4,939.89,796.36,Attain WHO Coverage Goal,2307.72,1939.5
+Iraq,Middle East & North Africa,Upper middle income,2025,532161.72,0.4,438.49,340.97,Attain WHO Coverage Goal,1104.94,857.73
+Iceland,Europe & Central Asia,High income,2025,2258.56,0.9,11.58,7.29,Attain WHO Coverage Goal,13.14,8.29
+Israel,Middle East & North Africa,High income,2025,81144.41,0.705555556,288.97,201.87,Attain WHO Coverage Goal,420.46,294.83
+Italy,Europe & Central Asia,High income,2025,262597.76,0.4,597.15,230.59,Attain WHO Coverage Goal,1521.75,585.15
+Jamaica,Latin America & Caribbean,Upper middle income,2025,23367.2,0.411111111,186.75,136.37,Attain WHO Coverage Goal,477.33,350.38
+Jordan,Middle East & North Africa,Upper middle income,2025,107858.96,0.4,167.65,136.82,Attain WHO Coverage Goal,399.79,321.81
+Japan,East Asia & Pacific,High income,2025,532878.1,0.4,2429.11,905.2,Attain WHO Coverage Goal,6195.13,2306.02
+Kazakhstan,Europe & Central Asia,Upper middle income,2025,195840.92,0.4,1011.69,524.93,Attain WHO Coverage Goal,2653.76,1398.82
+Kenya,Sub-Saharan Africa,Lower middle income,2025,736423,0.644444444,9955.07,6955.51,Attain WHO Coverage Goal,17614.05,12474.19
+Kyrgyz Republic,Europe & Central Asia,Lower middle income,2025,79041.26,0.4,439.4,308.23,Attain WHO Coverage Goal,1122.49,787.8
+Cambodia,East Asia & Pacific,Lower middle income,2025,179656.84,0.4,878.2,635.9,Attain WHO Coverage Goal,2217.3,1595.77
+Kiribati,East Asia & Pacific,Lower middle income,2025,1432.8,0.4,13.79,10.96,Attain WHO Coverage Goal,40.13,33.26
+"Korea, Rep.",East Asia & Pacific,High income,2025,225362.06,0.4,704.85,388.14,Attain WHO Coverage Goal,1797.74,991.34
+Kuwait,Middle East & North Africa,High income,2025,30306.17,0.4,34.96,26.24,Attain WHO Coverage Goal,85.58,63.45
+Lao PDR,East Asia & Pacific,Lower middle income,2025,80132.81,0.633333333,509.16,352.14,Attain WHO Coverage Goal,819.65,565.86
+Lebanon,Middle East & North Africa,Lower middle income,2025,46980.89,0.4,80.86,58.12,Attain WHO Coverage Goal,209.53,151.24
+Liberia,Sub-Saharan Africa,Low income,2025,73362.24,0.566666667,1215.42,990.31,Attain WHO Coverage Goal,2449.58,2027.86
+Libya,Middle East & North Africa,Upper middle income,2025,66193.11,0.4,212.33,168.11,Attain WHO Coverage Goal,535.77,419.68
+St. Lucia,Latin America & Caribbean,Upper middle income,2025,1109.52,0.744444444,17.51,13.97,Attain WHO Coverage Goal,24.05,19.22
+Sri Lanka,South Asia,Lower middle income,2025,166516.85,0.655555556,1076.02,667.86,Attain WHO Coverage Goal,1687.08,1047.45
+Lesotho,Sub-Saharan Africa,Lower middle income,2025,24406.66,0.4,293.67,212.61,Attain WHO Coverage Goal,852.11,633.82
+Lithuania,Europe & Central Asia,High income,2025,15624.57,0.766666667,191.65,93.11,Attain WHO Coverage Goal,254.54,123.66
+Luxembourg,Europe & Central Asia,High income,2025,3388.17,0.4,8.15,4.39,Attain WHO Coverage Goal,21.1,11.41
+Latvia,Europe & Central Asia,High income,2025,8529.52,0.633333333,77.62,42.4,Attain WHO Coverage Goal,124.56,68.4
+Morocco,Middle East & North Africa,Lower middle income,2025,348546.95,0.4,1493.84,941.54,Attain WHO Coverage Goal,3907.36,2470.33
+Moldova,Europe & Central Asia,Upper middle income,2025,21961.03,0.594444444,154.69,95.2,Attain WHO Coverage Goal,266.62,165.18
+Madagascar,Sub-Saharan Africa,Low income,2025,388246.52,0.4,4764.38,3682.16,Attain WHO Coverage Goal,12595.12,9789.84
+Maldives,South Asia,Upper middle income,2025,3666,0.627777778,52.83,36.14,Attain WHO Coverage Goal,85.84,58.68
+Mexico,Latin America & Caribbean,Upper middle income,2025,1119600.09,0.405555556,5391.58,3113.11,Attain WHO Coverage Goal,13463.57,7755.5
+Marshall Islands,East Asia & Pacific,Upper middle income,2025,608.35,0.55,8.05,6.45,Attain WHO Coverage Goal,16.37,13.34
+North Macedonia,Europe & Central Asia,Upper middle income,2025,11341.11,0.516666667,37.31,25.61,Attain WHO Coverage Goal,71.99,48.06
+Mali,Sub-Saharan Africa,Low income,2025,356065.18,0.4,3019.51,2470.94,Attain WHO Coverage Goal,7877.36,6457.93
+Malta,Middle East & North Africa,High income,2025,2094.26,0.99,8.59,6.71,Attain WHO Coverage Goal,8.81,6.77
+Myanmar,East Asia & Pacific,Lower middle income,2025,473624.18,0.4,3423.08,2561.19,Attain WHO Coverage Goal,8719.23,6515.36
+Montenegro,Europe & Central Asia,Upper middle income,2025,3543.58,0.4,27.95,17.92,Attain WHO Coverage Goal,71.25,44.09
+Mongolia,East Asia & Pacific,Lower middle income,2025,37267.15,0.4,275.42,275.1,Attain WHO Coverage Goal,658.09,608.31
+Mozambique,Sub-Saharan Africa,Low income,2025,506589.4,0.4,6138.73,5047.96,Attain WHO Coverage Goal,16247.2,13467.58
+Mauritania,Sub-Saharan Africa,Lower middle income,2025,66640.97,0.4,557.96,428.45,Attain WHO Coverage Goal,1352.29,1029.28
+Mauritius,Sub-Saharan Africa,Upper middle income,2025,6791.61,0.705555556,69,48.56,Attain WHO Coverage Goal,100.14,70.91
+Malawi,Sub-Saharan Africa,Low income,2025,294368.34,0.466666667,5705.8,4631.23,Attain WHO Coverage Goal,13241.61,10876.52
+Malaysia,East Asia & Pacific,Upper middle income,2025,245211.33,0.477777778,1287.96,1084.4,Attain WHO Coverage Goal,2720.46,2277.56
+Namibia,Sub-Saharan Africa,Upper middle income,2025,33696.52,0.4,400.12,284.65,Attain WHO Coverage Goal,1118.95,809.02
+Niger,Sub-Saharan Africa,Low income,2025,444892.49,0.4,1157.92,994.03,Attain WHO Coverage Goal,3002.29,2582.52
+Nigeria,Sub-Saharan Africa,Lower middle income,2025,3473811.19,0.4,12304.45,9505.3,Attain WHO Coverage Goal,33853.08,26365.18
+Nicaragua,Latin America & Caribbean,Lower middle income,2025,64633.07,0.4,537.65,365.49,Attain WHO Coverage Goal,1429.39,975.47
+Netherlands,Europe & Central Asia,High income,2025,87728.59,0.766666667,382.23,165.12,Attain WHO Coverage Goal,512.38,223.64
+Norway,Europe & Central Asia,High income,2025,30746.52,0.93,264.56,105.81,Attain WHO Coverage Goal,289.21,114.64
+Nepal,South Asia,Lower middle income,2025,287776.87,0.4,2417.1,1909.55,Attain WHO Coverage Goal,6143.74,4841.8
+New Zealand,East Asia & Pacific,High income,2025,31371.22,0.666666667,108.23,69.17,Attain WHO Coverage Goal,166.54,106.54
+Oman,Middle East & North Africa,High income,2025,37813.49,0.4,108.86,84.04,Attain WHO Coverage Goal,274.29,211.25
+Pakistan,South Asia,Lower middle income,2025,2667497.27,0.4,4594.01,3204.79,Attain WHO Coverage Goal,11785.62,8225.27
+Panama,Latin America & Caribbean,High income,2025,38754.81,0.4,210.22,150.72,Attain WHO Coverage Goal,539.97,387.94
+Peru,Latin America & Caribbean,Upper middle income,2025,259157.44,0.694444444,4237.65,3012.16,Attain WHO Coverage Goal,6440.81,4659.64
+Philippines,East Asia & Pacific,Lower middle income,2025,1160037.22,0.4,6577.86,4661.6,Attain WHO Coverage Goal,17165.86,12417.53
+Papua New Guinea,East Asia & Pacific,Lower middle income,2025,106742.5,0.4,1001.96,787.3,Attain WHO Coverage Goal,2427.77,1865.38
+Poland,Europe & Central Asia,High income,2025,184262.19,0.4,886.46,548.8,Attain WHO Coverage Goal,2292.53,1430.4
+Portugal,Europe & Central Asia,High income,2025,42845.78,0.822222222,351.62,177.35,Attain WHO Coverage Goal,438.73,221.95
+Paraguay,Latin America & Caribbean,Upper middle income,2025,67828.06,0.494444444,1018.14,758.81,Attain WHO Coverage Goal,2090.67,1557.68
+West Bank and Gaza,Middle East & North Africa,Lower middle income,2025,67446.4,0.4,254.58,196.69,Attain WHO Coverage Goal,615.41,471.21
+Qatar,Middle East & North Africa,High income,2025,13729.6,0.4,21.45,24.57,Attain WHO Coverage Goal,54.02,60.26
+Romania,Europe & Central Asia,High income,2025,93154.02,0.4,697.37,425.41,Attain WHO Coverage Goal,1752.73,1052.62
+Russian Federation,Europe & Central Asia,Upper middle income,2025,928697.53,0.4,3977.66,2107.74,Attain WHO Coverage Goal,9962.75,5250.92
+Rwanda,Sub-Saharan Africa,Low income,2025,176585,0.805555556,3112.62,2459.18,Attain WHO Coverage Goal,4314.93,3476.07
+Saudi Arabia,Middle East & North Africa,High income,2025,298766.59,0.4,453.75,330.41,Attain WHO Coverage Goal,1064.75,755.87
+Sudan,Sub-Saharan Africa,Low income,2025,615201.19,0.4,1665,1289.95,Attain WHO Coverage Goal,4457.5,3484.02
+Senegal,Sub-Saharan Africa,Lower middle income,2025,255904.26,0.516666667,4362.96,3500.23,Attain WHO Coverage Goal,8126.65,6451.06
+Singapore,East Asia & Pacific,High income,2025,20902.1,0.4,76.29,56.91,Attain WHO Coverage Goal,195.04,145.63
+Solomon Islands,East Asia & Pacific,Lower middle income,2025,9294.41,0.4,87.42,61.64,Attain WHO Coverage Goal,243.7,176.01
+Sierra Leone,Sub-Saharan Africa,Low income,2025,124762.73,0.4,650.29,530.75,Attain WHO Coverage Goal,1549.09,1262.57
+El Salvador,Latin America & Caribbean,Lower middle income,2025,55559.77,0.533333333,424.75,326.25,Attain WHO Coverage Goal,853.4,663.24
+Somalia,Sub-Saharan Africa,Low income,2025,282000.74,0.4,1622.85,1369.98,Attain WHO Coverage Goal,4211.27,3561.18
+Serbia,Europe & Central Asia,Upper middle income,2025,41990.51,0.4,260.33,154.42,Attain WHO Coverage Goal,652.17,379.96
+São Tomé and Príncipe,Sub-Saharan Africa,Lower middle income,2025,3133.7,0.4,38.39,36.62,Attain WHO Coverage Goal,114.94,110.36
+Suriname,Latin America & Caribbean,Upper middle income,2025,5193.08,0.411111111,43.39,30.41,Attain WHO Coverage Goal,107.45,75.87
+Slovak Republic,Europe & Central Asia,High income,2025,27719.55,0.4,162.88,83.88,Attain WHO Coverage Goal,411.64,209.43
+Slovenia,Europe & Central Asia,High income,2025,10722.64,0.677777778,42.4,28.85,Attain WHO Coverage Goal,63.52,42.85
+Sweden,Europe & Central Asia,High income,2025,57919.61,0.861111111,419.21,184.71,Attain WHO Coverage Goal,495.95,217.46
+Eswatini,Sub-Saharan Africa,Lower middle income,2025,15441.28,0.4,328.97,236.36,Attain WHO Coverage Goal,878.67,639.38
+Chad,Sub-Saharan Africa,Low income,2025,300307.99,0.4,1127.97,941.16,Attain WHO Coverage Goal,3097.99,2610.44
+Togo,Sub-Saharan Africa,Low income,2025,123470.94,0.4,701.1,553.75,Attain WHO Coverage Goal,1890.45,1503.57
+Thailand,East Asia & Pacific,Upper middle income,2025,378253.89,0.4,2796.98,1898.35,Attain WHO Coverage Goal,6797.39,4507.35
+Tajikistan,Europe & Central Asia,Lower middle income,2025,124513.3,0.4,372.39,279.95,Attain WHO Coverage Goal,977.46,739.96
+Turkmenistan,Europe & Central Asia,Upper middle income,2025,70836.33,0.99,860.77,581.8,Attain WHO Coverage Goal,871.62,586.3
+Timor-Leste,East Asia & Pacific,Lower middle income,2025,15689.33,0.4,80.47,61.54,Attain WHO Coverage Goal,207.27,158.46
+Tonga,East Asia & Pacific,Upper middle income,2025,1224.76,0.4,15.69,13.33,Attain WHO Coverage Goal,38.34,32.18
+Trinidad and Tobago,Latin America & Caribbean,High income,2025,9702.41,0.444444444,96.46,64.01,Attain WHO Coverage Goal,209.8,139.05
+Tunisia,Middle East & North Africa,Lower middle income,2025,101947.9,0.4,208.95,129.23,Attain WHO Coverage Goal,519.3,319.7
+Türkiye,Europe & Central Asia,Upper middle income,2025,660165.01,0.4,1564.6,1036.85,Attain WHO Coverage Goal,3974.55,2637.32
+Tuvalu,East Asia & Pacific,Upper middle income,2025,139.28,0.55,2.04,1.67,Attain WHO Coverage Goal,4.27,3.59
+Tanzania,Sub-Saharan Africa,Lower middle income,2025,912097.25,0.716666667,32973.74,24299.07,Attain WHO Coverage Goal,47572.65,35038.55
+Uganda,Sub-Saharan Africa,Low income,2025,746851.34,0.644444444,17922.26,14179.58,Attain WHO Coverage Goal,30960.99,24946.9
+Ukraine,Europe & Central Asia,Lower middle income,2025,246235.53,0.4,1052.66,466.92,Attain WHO Coverage Goal,2613.68,1153.26
+Uruguay,Latin America & Caribbean,High income,2025,23363.94,0.494444444,112.13,75.64,Attain WHO Coverage Goal,232.14,156.9
+United States,North America,High income,2025,1972105.89,0.666666667,7245.72,3733.24,Attain WHO Coverage Goal,11043.98,5660.04
+Uzbekistan,Europe & Central Asia,Lower middle income,2025,329110.43,0.883333333,2690.1,1825.08,Attain WHO Coverage Goal,3111.62,2110.38
+Vietnam,East Asia & Pacific,Lower middle income,2025,724575,0.4,2137.49,1530.18,Attain WHO Coverage Goal,5433.87,3883.57
+Vanuatu,East Asia & Pacific,Lower middle income,2025,3817.55,0.4,18,16,Attain WHO Coverage Goal,46.49,41.33
+Samoa,East Asia & Pacific,Lower middle income,2025,2323.64,0.4,9.6,7.69,Attain WHO Coverage Goal,24.94,20.02
+Kosovo,Europe & Central Asia,Upper middle income,2025,8574.36,0.4,20.14,12.3,Attain WHO Coverage Goal,50.09,30.21
+South Africa,Sub-Saharan Africa,Upper middle income,2025,610744.2,0.588888889,9697.84,5655.52,Attain WHO Coverage Goal,16929.45,9932.53
+Zambia,Sub-Saharan Africa,Low income,2025,293731.93,0.583333333,7815.3,5571.6,Attain WHO Coverage Goal,14869.94,10774.47
+Zimbabwe,Sub-Saharan Africa,Lower middle income,2025,244880.9,0.622222222,6526.02,4986.41,Attain WHO Coverage Goal,11551.82,8946.42
+Afghanistan,South Asia,Low income,2026,579642.24,0.5,2091.92,1620.12,Attain WHO Coverage Goal,4388.24,3408.64
+Angola,Sub-Saharan Africa,Lower middle income,2026,582462.52,0.5,7620.01,5554.7,Attain WHO Coverage Goal,16329.92,12005.8
+Albania,Europe & Central Asia,Upper middle income,2026,16222.07,0.5,48.39,29.79,Attain WHO Coverage Goal,96.91,59.12
+United Arab Emirates,Middle East & North Africa,High income,2026,52902.64,0.5,210.3,161.31,Attain WHO Coverage Goal,408.96,309.71
+Argentina,Latin America & Caribbean,Upper middle income,2026,371313.42,0.735555556,3746.48,2500.04,Attain WHO Coverage Goal,5141.69,3396.6
+Armenia,Europe & Central Asia,Upper middle income,2026,20488.08,0.535555556,94.64,71.05,Attain WHO Coverage Goal,174.29,129.44
+Australia,East Asia & Pacific,High income,2026,169382.32,0.793333333,662.23,362.28,Attain WHO Coverage Goal,857.35,472.99
+Austria,Europe & Central Asia,High income,2026,41975.29,0.5,116.46,62.05,Attain WHO Coverage Goal,235.73,124.75
+Azerbaijan,Europe & Central Asia,Upper middle income,2026,85355.84,0.5,257.74,175.12,Attain WHO Coverage Goal,523.01,354.48
+Burundi,Sub-Saharan Africa,Low income,2026,203816.21,0.5,3356.97,2788.87,Attain WHO Coverage Goal,7350.18,6163.56
+Belgium,Europe & Central Asia,High income,2026,65772.08,0.811111111,376.49,174.76,Attain WHO Coverage Goal,473.16,219.02
+Benin,Sub-Saharan Africa,Lower middle income,2026,191342.43,0.5,904.8,664.09,Attain WHO Coverage Goal,1977.39,1462.09
+Burkina Faso,Sub-Saharan Africa,Low income,2026,349750.09,0.5,1896.89,1564.69,Attain WHO Coverage Goal,4155.86,3461.41
+Bangladesh,South Asia,Lower middle income,2026,1489329.99,0.5,6166.27,4351.69,Attain WHO Coverage Goal,12354.47,8678.74
+Bulgaria,Europe & Central Asia,Upper middle income,2026,32065.9,0.513333333,244.82,138.69,Attain WHO Coverage Goal,481.48,267.4
+Bahrain,Middle East & North Africa,High income,2026,10622.81,0.5,25.48,16.9,Attain WHO Coverage Goal,51.4,34.04
+"Bahamas, The",Latin America & Caribbean,High income,2026,2557.02,0.5,20.4,14.97,Attain WHO Coverage Goal,41.43,30.43
+Bosnia and Herzegovina,Europe & Central Asia,Upper middle income,2026,15294.24,0.5,76.66,43.13,Attain WHO Coverage Goal,156.01,87.96
+Belarus,Europe & Central Asia,Upper middle income,2026,59552.93,0.5,280.25,131.27,Attain WHO Coverage Goal,564.72,262.24
+Belize,Latin America & Caribbean,Upper middle income,2026,3922.64,0.517777778,41.94,40.97,Attain WHO Coverage Goal,81.74,79.8
+Bolivia,Latin America & Caribbean,Lower middle income,2026,120697.52,0.66,1973.59,1372.65,Attain WHO Coverage Goal,3108.28,2396.25
+Brazil,Latin America & Caribbean,Upper middle income,2026,1450019.92,0.797777778,15060.96,9101.34,Attain WHO Coverage Goal,19343.81,11770.06
+Barbados,Latin America & Caribbean,High income,2026,1510.89,0.624444444,16.93,11.55,Attain WHO Coverage Goal,28.1,19.15
+Brunei Darussalam,East Asia & Pacific,High income,2026,3433.29,0.895555556,42.73,14.05,Attain WHO Coverage Goal,48.71,16.02
+Bhutan,South Asia,Lower middle income,2026,6285.67,0.891111111,63.6,43.02,Attain WHO Coverage Goal,69.33,46.54
+Botswana,Sub-Saharan Africa,Upper middle income,2026,28270.01,0.597777778,455.12,307.68,Attain WHO Coverage Goal,892.73,627.58
+Central African Republic,Sub-Saharan Africa,Low income,2026,80468.95,0.5,488.13,401.29,Attain WHO Coverage Goal,1025.51,845.36
+Canada,North America,High income,2026,197695.84,0.886666667,894.3,524.02,Attain WHO Coverage Goal,1029.98,600.53
+Switzerland,Europe & Central Asia,High income,2026,43497.92,0.815555556,137.98,76.22,Attain WHO Coverage Goal,172.84,95.51
+Chile,Latin America & Caribbean,High income,2026,123423.48,0.753333333,1175.38,820.61,Attain WHO Coverage Goal,1569.8,1089.31
+China,East Asia & Pacific,Upper middle income,2026,8247786.68,0.5,35949.61,23259.99,Attain WHO Coverage Goal,71515.75,45650.47
+Côte d’Ivoire,Sub-Saharan Africa,Lower middle income,2026,406356.98,0.682222222,5848.7,4586.71,Attain WHO Coverage Goal,8781.32,6855.69
+Cameroon,Sub-Saharan Africa,Lower middle income,2026,417802.21,0.522222222,4383.62,3249.22,Attain WHO Coverage Goal,8809.93,6567.39
+"Congo, Dem. Rep.",Sub-Saharan Africa,Low income,2026,1570039.61,0.5,16466.05,13096.87,Attain WHO Coverage Goal,36367.13,29258.31
+"Congo, Rep.",Sub-Saharan Africa,Lower middle income,2026,82334.96,0.5,708.88,489.27,Attain WHO Coverage Goal,1604.41,1129.14
+Colombia,Latin America & Caribbean,Upper middle income,2026,362783.78,0.548888889,3189.75,2210,Attain WHO Coverage Goal,5896.11,4085.37
+Comoros,Sub-Saharan Africa,Lower middle income,2026,12253.21,0.5,232.78,180.57,Attain WHO Coverage Goal,471.55,365.29
+Cabo Verde,Sub-Saharan Africa,Lower middle income,2026,5361.44,0.5,43.07,38.97,Attain WHO Coverage Goal,84.17,75.58
+Costa Rica,Latin America & Caribbean,Upper middle income,2026,35436.16,0.762222222,246.99,225.19,Attain WHO Coverage Goal,329.98,301.63
+Cyprus,Europe & Central Asia,High income,2026,6751.14,0.5,18.09,23.62,Attain WHO Coverage Goal,36.75,47.37
+Czech Republic,Europe & Central Asia,High income,2026,53970.32,0.5,233.23,143.65,Attain WHO Coverage Goal,475.2,292.33
+Germany,Europe & Central Asia,High income,2026,377628.56,0.708888889,1772.42,912.8,Attain WHO Coverage Goal,2549.07,1305.82
+Djibouti,Middle East & North Africa,Lower middle income,2026,10860.92,0.5,59.57,47.3,Attain WHO Coverage Goal,130.94,105.09
+Denmark,Europe & Central Asia,High income,2026,29002.09,0.855555556,215.85,104.54,Attain WHO Coverage Goal,254.87,121.79
+Dominican Republic,Latin America & Caribbean,Upper middle income,2026,100796.45,0.535555556,1137.57,936.5,Attain WHO Coverage Goal,2137.29,1756.53
+Algeria,Middle East & North Africa,Lower middle income,2026,480957.29,0.5,2059.37,1356.46,Attain WHO Coverage Goal,4145.63,2725.65
+Ecuador,Latin America & Caribbean,Upper middle income,2026,161176.27,0.513333333,1693.54,1196.26,Attain WHO Coverage Goal,3387.41,2402.12
+"Egypt, Arab Rep.",Middle East & North Africa,Lower middle income,2026,1271977.78,0.5,2238.4,1700.81,Attain WHO Coverage Goal,4595.08,3497.44
+Spain,Europe & Central Asia,High income,2026,212557.69,0.842222222,907.7,459.08,Attain WHO Coverage Goal,1100.68,556.21
+Estonia,Europe & Central Asia,High income,2026,7216.62,0.753333333,91.42,32.52,Attain WHO Coverage Goal,123.58,43.92
+Ethiopia,Sub-Saharan Africa,Low income,2026,1657304.48,0.833333333,22760.69,18387.71,Attain WHO Coverage Goal,28388.53,23014.49
+Finland,Europe & Central Asia,High income,2026,29871,0.5,63.26,28.18,Attain WHO Coverage Goal,129.53,57.96
+Fiji,East Asia & Pacific,Upper middle income,2026,8790.95,0.5,123.46,101.53,Attain WHO Coverage Goal,252.8,209.02
+France,Europe & Central Asia,High income,2026,387858.77,0.664444444,1817.52,872.44,Attain WHO Coverage Goal,2786.96,1336.87
+"Micronesia, Fed. Sts.",East Asia & Pacific,Lower middle income,2026,1163.62,0.642222222,21.75,18.1,Attain WHO Coverage Goal,28.66,22.42
+Gabon,Sub-Saharan Africa,Upper middle income,2026,30407.42,0.5,369.89,227.29,Attain WHO Coverage Goal,779.54,482.6
+United Kingdom,Europe & Central Asia,High income,2026,406821.52,0.762222222,2109.53,803.41,Attain WHO Coverage Goal,2815.91,1064.89
+Georgia,Europe & Central Asia,Upper middle income,2026,28008.37,0.553333333,156.35,104.54,Attain WHO Coverage Goal,286.32,190.97
+Ghana,Sub-Saharan Africa,Lower middle income,2026,415442.72,0.5,5120.64,3797.32,Attain WHO Coverage Goal,10570.76,7825.43
+Guinea,Sub-Saharan Africa,Low income,2026,214607.76,0.5,3355.75,2685.82,Attain WHO Coverage Goal,7396.01,5970.66
+"Gambia, The",Sub-Saharan Africa,Low income,2026,38691.4,0.633333333,1022.71,927.55,Attain WHO Coverage Goal,1633.76,1478.96
+Guinea-Bissau,Sub-Saharan Africa,Low income,2026,31205.74,0.5,427.05,349.26,Attain WHO Coverage Goal,868.68,710.55
+Equatorial Guinea,Sub-Saharan Africa,Upper middle income,2026,19540.55,0.5,202.82,133.48,Attain WHO Coverage Goal,409.79,269.58
+Greece,Europe & Central Asia,High income,2026,44113.26,0.5,186.45,88.32,Attain WHO Coverage Goal,383.57,182.56
+Guatemala,Latin America & Caribbean,Upper middle income,2026,201230.17,0.566666667,2240,1600.53,Attain WHO Coverage Goal,4303.58,3113.55
+Guyana,Latin America & Caribbean,Upper middle income,2026,7368.39,0.508888889,96.54,61.35,Attain WHO Coverage Goal,191.56,121.99
+Honduras,Latin America & Caribbean,Lower middle income,2026,98234.15,0.735555556,1129.18,780.27,Attain WHO Coverage Goal,1638.37,1124.51
+Croatia,Europe & Central Asia,High income,2026,19233.46,0.5,90.12,45.77,Attain WHO Coverage Goal,183.29,92.95
+Haiti,Latin America & Caribbean,Lower middle income,2026,132961.42,0.5,787.92,649.77,Attain WHO Coverage Goal,1775.22,1479.08
+Hungary,Europe & Central Asia,High income,2026,43460.82,0.864444444,526.52,227.54,Attain WHO Coverage Goal,619.73,266.85
+Indonesia,East Asia & Pacific,Lower middle income,2026,2475038.51,0.522222222,26852.6,19036.98,Attain WHO Coverage Goal,54773.38,39398.25
+India,South Asia,Lower middle income,2026,11762069.68,0.5,107685.36,79862.58,Attain WHO Coverage Goal,203547.36,147712.8
+Ireland,Europe & Central Asia,High income,2026,34757.03,0.815555556,247.94,108.63,Attain WHO Coverage Goal,309.98,135.66
+"Iran, Islamic Rep.",Middle East & North Africa,Lower middle income,2026,701486.75,0.5,1214.18,1029.24,Attain WHO Coverage Goal,2384.14,2004.67
+Iraq,Middle East & North Africa,Upper middle income,2026,534914.16,0.5,552.85,430.05,Attain WHO Coverage Goal,1114.52,865.45
+Iceland,Europe & Central Asia,High income,2026,2215.62,0.9,11.36,7.15,Attain WHO Coverage Goal,12.89,8.13
+Israel,Middle East & North Africa,High income,2026,82052.25,0.744444444,308.73,215.89,Attain WHO Coverage Goal,425.73,298.79
+Italy,Europe & Central Asia,High income,2026,256605.5,0.5,730.13,282.25,Attain WHO Coverage Goal,1488.39,572.79
+Jamaica,Latin America & Caribbean,Upper middle income,2026,23258,0.508888889,230.89,168.68,Attain WHO Coverage Goal,476.42,349.84
+Jordan,Middle East & North Africa,Upper middle income,2026,104008.94,0.5,202.75,165.55,Attain WHO Coverage Goal,386.77,311.49
+Japan,East Asia & Pacific,High income,2026,522099.27,0.5,2977.04,1110.41,Attain WHO Coverage Goal,6073.33,2262.25
+Kazakhstan,Europe & Central Asia,Upper middle income,2026,197017.08,0.5,1276.53,662.77,Attain WHO Coverage Goal,2678.01,1412.29
+Kenya,Sub-Saharan Africa,Lower middle income,2026,733282.57,0.695555556,10764.99,7524.5,Attain WHO Coverage Goal,17623.62,12484.88
+Kyrgyz Republic,Europe & Central Asia,Lower middle income,2026,79361.05,0.5,553.65,388.63,Attain WHO Coverage Goal,1131.23,794.41
+Cambodia,East Asia & Pacific,Lower middle income,2026,180073.14,0.5,1107.04,802.19,Attain WHO Coverage Goal,2235.62,1610.11
+Kiribati,East Asia & Pacific,Lower middle income,2026,1450.4,0.5,17.54,13.96,Attain WHO Coverage Goal,40.78,33.82
+"Korea, Rep.",East Asia & Pacific,High income,2026,219020.88,0.5,857.32,472.68,Attain WHO Coverage Goal,1748.99,965.31
